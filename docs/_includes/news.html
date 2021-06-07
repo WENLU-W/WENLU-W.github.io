@@ -1,0 +1,12 @@
+
+<div class="well">
+<h4>News</h4>
+<i>
+{% for article in site.data.news limit:9 %}
+{{ article.date }}
+<p>{{ article.headline }}</p>
+{% endfor %}
+</i>
+<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+
+    </div>

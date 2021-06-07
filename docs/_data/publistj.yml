@@ -1,0 +1,17 @@
+- title: "LShape Partitioning: Parallel Skyline Query Processing using MapReduce"
+  image: 
+  authors: H Wijayanto, W Wang, WS Ku, and LP Chen
+  description: 
+  link:
+    url: 
+    display: TKDE 2020
+  highlight: 0
+
+- title: "A Scalable Spatial Skyline Evaluation System Utilizing Parallel Independent Region Groups"
+  image: 
+  authors: W Wang, J Zhang, MT Sun, and WS Ku
+  description: 
+  link:
+    url: 
+    display: VLDB Journal 2019
+  highlight: 1

@@ -1,0 +1,90 @@
+- title: "LShape Partitioning: Parallel Skyline Query Processing using MapReduce"
+  image: 
+  authors: H Wijayanto, W Wang, WS Ku, and LP Chen
+  description:
+  link:
+    url: 
+    display:  IEEE ICDE 2021
+  highlight: 1
+
+
+- title: "A Natural Language Interface for Database: Achieving Transfer-learnability Using Adversarial Method for Question Understanding"
+  image: 
+  authors: W Wang, Y Tian, H Wang, WS Ku
+  description:
+  link: 
+    url: nlidb2020.pdf
+    display:  IEEE ICDE 2020
+  highlight: 0
+
+- title: "Predicting Economic Growth by Region Embedding: A Multigraph Convolutional Network Approach"
+  image: 
+  authors: B Hui, D Yan, WS Ku, W Wang
+  description:
+  link:
+    url: 
+    display: CIKM 2020
+  highlight: 0
+
+- title: "A Cross-domain Natural Language Interface To Databases Using Adversarial Text Method"
+  image: 
+  authors: W Wang
+  description:
+  link:
+    url: 
+    display: VLDB PhD Workshop 2020
+  highlight: 0
+
+- title: "An MBR-Oriented Approach for Efficient Skyline Query Processing"
+  image: 
+  authors: J Zhang, W Wang, X Jiang, WS Ku, and H Lu
+  description:
+  link:
+    url: 
+    display: IEEE ICDE 2019
+  highlight: 0
+
+- title: "On Location Privacy in Fingerprinting-based Indoor Positioning System: An Encryption Approach"
+  image: 
+  authors: W Wang, Z Gong, J Zhang, H Lu, WS Ku
+  description:
+  link:
+    url: 
+    display: SIGSPATIAL  2019
+  highlight: 0
+
+- title: "A VLOS Compliance Solution to Ground/Aerial Parcel Delivery Problem"
+  image: 
+  authors: J Zhang, T Shen, W Wang, X Jiang, WS Ku, MT Sun, and YY Chiang
+  description:
+  link:
+    url: 
+    display: MDM 2019
+  highlight: 0
+
+- title: "Efficient Parallel Spatial Skyline Evaluation Using MapReduce"
+  image: 
+  authors: W Wang, J Zhang, MT Sun, and WS Ku
+  description:
+  link:
+    url: 
+    display: EDBT  2017
+  highlight: 0
+
+- title: "Recommendation-based Smart Indoor Navigation"
+  image: 
+  authors: W Wang and WS Ku
+  description:
+  link:
+    url: 
+    display: ACM/IEEE IoTDI  2017
+  highlight: 0
+
+- title: "SRC Dynamic Indoor Navigation with Bayesian Filters"
+  image: 
+  authors: W Wang and WS Ku
+  description:
+  link:
+    url: 
+    display: SIGSPATIAL Special 2016 (Student Research Competition Bronze Medal)
+  highlight: 0
