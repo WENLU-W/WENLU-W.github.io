@@ -6,13 +6,14 @@ sitemap: false
 permalink: /recruit/
 ---
 
+### Recruiting
+
 RA openings are available for highly self-motivated Ph.D. students starting Spring 2022.
 
-The research topic is flexible. I’m currently interested in (1) deep model interpretations and (2) spatial data science.
+The research topic is flexible. I’m currently interested in (1) spatial data science using neural networks, (2) deep model interpretation, and (3) natural langauge interface.
 
  
-
-### Application Instructions
+#### Application Instructions
 If you are interested in applying for a Ph.D. position, please send the following info to wenlu.wang.1@gmail.com
 
  
