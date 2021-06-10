@@ -24,7 +24,10 @@ permalink: /research/
 - SpatialNLI: A Spatial Domain Natural Language Interface to Databases <a href="https://arxiv.org/abs/1908.10917">[pdf]</a>
 
 #### Query Optimization
-
+- A scalable spatial skyline evaluation system utilizing parallel independent region groups
+- Efficient parallel spatial skyline evaluation using MapReduce
+- LShape Partitioning: Parallel Skyline Query Processing using MapReduce
+- An MBR-Oriented Approach for Efficient Skyline Query Processing
 
 ### Collaborators
 
