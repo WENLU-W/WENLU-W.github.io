@@ -8,19 +8,20 @@ permalink: /research/
 
 ### Ongoing Project
 
-#### Spatial Embedding
+#### Contextual Spatial Semantic Modeling
 
-- Predicting Economic Growth by Region Embedding
+*Location matters!*
+
+- Modeling Real Estate Dynamics Using Temporal Encoding <a href="">[paper]</a>
+- Predicting Economic Growth by Regional Embedding <a href="https://dl.acm.org/doi/abs/10.1145/3340531.3411882">[paper]</a>
 
 #### Deep Model Interpretation
- 
 - Adversarial data and clean data are not twins <a href="https://arxiv.org/pdf/1704.04960.pdf">[paper]</a>
 
-#### Natural Langauge Interface to Databases
-
-- Transfer-Learnable NLIDB
-- SpatialNLI: A Spatial Domain Natural Language Interface to Databases
-- Cross-domain NLIDB using Adversarial Text Method
+#### Natural Langauge Interface to Databases (NLIDB)
+- Transfer-Learnable NLIDB using Adversarial Text Method <a href="https://ieeexplore.ieee.org/abstract/document/9101534">[paper]</a>
+- Cross-Domain NLIDB <a href="http://ceur-ws.org/Vol-2399/paper14.pdf">[pdf]</a>
+- SpatialNLI: A Spatial Domain Natural Language Interface to Databases <a href="https://arxiv.org/abs/1908.10917">[pdf]</a>
 
 #### Query Optimization
 
