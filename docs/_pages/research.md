@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Ongoing Project
 
-#### Contextual Spatial Semantic Modeling
+#### Contextual Spatial Semantics Modeling
 
 *Location matters!*
 
