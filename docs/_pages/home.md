@@ -30,4 +30,3 @@ My current research interests include spatial data science using neural networks
 
 ### News
 - Recruting PhD students
-- If you would like to work with me for your degree, email me your resume and transcripts. 
