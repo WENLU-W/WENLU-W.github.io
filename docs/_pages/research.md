@@ -10,8 +10,6 @@ permalink: /research/
 
 #### Contextual Spatial Semantics Modeling
 
-*Location matters!*
-
 - Modeling Real Estate Dynamics Using Temporal Encoding <a href="">[paper]</a>
 - Predicting Economic Growth by Regional Embedding <a href="https://dl.acm.org/doi/abs/10.1145/3340531.3411882">[paper]</a>
 
