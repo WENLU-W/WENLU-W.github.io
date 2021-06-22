@@ -1,22 +1,36 @@
 ---
 title: "Wenlu Wang - Research"
-layout: textlay
+layout: page
 excerpt: "Wenlu Wang -- Research"
 sitemap: false
 permalink: /research/
 ---
 
+<style>
+.grid { 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+  align-items: center;
+  justify-items: center;
+  }
+.grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+}
+</style>
+
 ### Research Project
 
-<ul>
+<article class="grid">
+{%- if site.posts.size > 0 -%}
   {% for post in site.posts %}
-    <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-    </li>
   {% endfor %}
-</ul>
-
+{%- endif -%}
+</article>
 
 ### Collaborators
 
