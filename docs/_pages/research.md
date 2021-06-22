@@ -1,16 +1,10 @@
 ---
 title: "Wenlu Wang - Research"
-layout: gridlay
+layout: textlay
 excerpt: "Wenlu Wang -- Research"
 sitemap: false
 permalink: /research/
 ---
-
-
-{% for post in site.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
-{% endfor %}
 
 <ul>
   {% for post in site.posts %}
