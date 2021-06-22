@@ -6,21 +6,6 @@ sitemap: false
 permalink: /research/
 ---
 
-<style>
-.grid { 
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
-  align-items: center;
-  justify-items: center;
-  }
-.grid img {
-  border: 1px solid #ccc;
-  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
-  max-width: 100%;
-}
-</style>
-
 ### Research Project
 
 <article class="grid">
@@ -32,8 +17,6 @@ permalink: /research/
 {%- endif -%}
 </article>
 
-### Collaborators
-
 <div class="container">
 
     {% for post in site.posts %}
@@ -41,7 +24,8 @@ permalink: /research/
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
 
             <div class="col-sm-3">
-                <!-- liquid tags here -->
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                {{ post.excerpt }}
             </div>
 
         {% cycle 'end row' : nil, nil, nil, '</div>' %}
@@ -50,6 +34,10 @@ permalink: /research/
     {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
 
 </div>
+
+### Collaborators
+
+
 
 <!--
 <center><figure class="fourth">
