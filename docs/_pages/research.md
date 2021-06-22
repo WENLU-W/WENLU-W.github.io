@@ -8,15 +8,6 @@ permalink: /research/
 
 ### Research Project
 
-<article class="grid">
-{%- if site.posts.size > 0 -%}
-  {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-  {% endfor %}
-{%- endif -%}
-</article>
-
 <div class="container">
 
     {% for post in site.posts %}
