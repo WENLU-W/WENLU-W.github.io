@@ -34,6 +34,23 @@ permalink: /research/
 
 ### Collaborators
 
+<div class="container">
+
+    {% for post in site.posts %}
+
+        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+
+            <div class="col-sm-3">
+                <!-- liquid tags here -->
+            </div>
+
+        {% cycle 'end row' : nil, nil, nil, '</div>' %}
+
+    {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
+
+</div>
+
 <!--
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/" style="width: 150px">
