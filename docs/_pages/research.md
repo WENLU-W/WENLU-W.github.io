@@ -1,6 +1,6 @@
 ---
 title: "Wenlu Wang - Research"
-layout: post
+layout: textlay
 excerpt: "Wenlu Wang -- Research"
 sitemap: false
 permalink: /research/
