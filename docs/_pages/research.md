@@ -6,26 +6,18 @@ sitemap: false
 permalink: /research/
 ---
 
-### Ongoing Project
-
-#### Spatial Embedding
-
-- Predicting Economic Growth by Region Embedding
-
-#### Deep Model Interpretation
- 
-- Adversarial data and clean data are not twins <a href="https://arxiv.org/pdf/1704.04960.pdf">[paper]</a>
-
-#### Natural Langauge Interface to Databases
-
-- Transfer-Learnable NLIDB
-- SpatialNLI: A Spatial Domain Natural Language Interface to Databases
-- Cross-domain NLIDB using Adversarial Text Method
-
-#### Query Optimization
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 
-### Collaborators
+
+
 
 <!--
 <center><figure class="fourth">
