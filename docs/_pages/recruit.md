@@ -8,7 +8,7 @@ permalink: /recruit/
 
 ### Recruiting
 
-RA openings are available for highly self-motivated Ph.D. students starting Spring 2022.
+RA openings are available for highly self-motivated Ph.D. students starting Fall 2021.
 
 The research topic is flexible. I’m currently interested in (1) spatial data science using neural networks, (2) deep model interpretation, and (3) natural langauge interface.
 
