@@ -1,3 +1,12 @@
+- title: "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach"
+  image:
+  authors: P Harn, J Zhang, T Shen, W Wang, X Jiang, WS Ku, MT Sun, YY Chiang
+  description: 
+  link:
+    url: 
+    display: Distributed and Parallel Databases 2021
+  highlight: 0
+
 - title: "LShape Partitioning: Parallel Skyline Query Processing using MapReduce"
   image: 
   authors: H Wijayanto, W Wang, WS Ku, and LP Chen
