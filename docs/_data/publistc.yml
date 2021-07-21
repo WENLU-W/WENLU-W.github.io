@@ -2,8 +2,9 @@
   image: 
   authors: H Wijayanto, W Wang, WS Ku, and LP Chen
   description:
-  url: https://doi.org/10.1109/ICDE51399.2021.00256
-  display:  IEEE ICDE 2021
+  link:
+    url: https://doi.org/10.1109/ICDE51399.2021.00256
+    display:  IEEE ICDE 2021
   highlight: 1
 
 

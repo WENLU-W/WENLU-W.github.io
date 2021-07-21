@@ -13,7 +13,8 @@ permalink: /publications/
 {% for publi in site.data.publistc %}
 
 1. {{ publi.link.display }} <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.title }}
+  {{ publi.title }}  <a href="{{ publi.link.url }}">pdf</a><br />
+  <em>{{ publi.authors }} </em>
 
 {% endfor %}
 
@@ -22,7 +23,8 @@ permalink: /publications/
 {% for publi in site.data.publistj %}
 
 1. {{ publi.link.display }} <br />
-  <em>{{ publi.authors }} </em><br />{{ publi.title }}
+  {{ publi.title }}<br />
+  <em>{{ publi.authors }} </em>
 
 {% endfor %}
 
