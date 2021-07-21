@@ -23,7 +23,7 @@ permalink: /publications/
 {% for publi in site.data.publistj %}
 
 1. {{ publi.link.display }} <br />
-  {{ publi.title }}<br />
+  {{ publi.title }}  <a href="{{ publi.link.url }}">pdf</a><br />
   <em>{{ publi.authors }} </em>
 
 {% endfor %}

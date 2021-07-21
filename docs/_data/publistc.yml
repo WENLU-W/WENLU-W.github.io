@@ -13,7 +13,7 @@
   authors: W Wang, Y Tian, H Wang, WS Ku
   description:
   link: 
-    url: nlidb2020.pdf
+    url: https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a097/290300a097.pdf
     display:  IEEE ICDE 2020
   highlight: 0
 
@@ -22,7 +22,7 @@
   authors: B Hui, D Yan, WS Ku, W Wang
   description:
   link:
-    url: 
+    url:  https://dl.acm.org/doi/pdf/10.1145/3340531.3411882?casa_token=1rqhWTXXDRMAAAAA:Ok1mdUk_CXJypCGhpiNlz_rH3YBLVlta35_3XFqjYmoQ6zUZaVxaMcSXBvr5Uruhnx_waQ3-IQ4nHQ
     display: CIKM 2020
   highlight: 0
 
@@ -31,7 +31,7 @@
   authors: W Wang
   description:
   link:
-    url: 
+    url: http://ceur-ws.org/Vol-2399/paper14.pdf
     display: VLDB PhD Workshop 2020
   highlight: 0
 
