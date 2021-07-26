@@ -20,3 +20,7 @@ Previous
 - IEEE Transactions on Big Data (TBD)
 
 
+### Awards
+
+- Walt Woltosz Fellowship, Auburn University    2015-2018
+- <a href="https://src.acm.org/winners/2017">Third Place</a>, ACM SIGSPATIAL Student Research Competition    2016
