@@ -1,3 +1,12 @@
+- title: "Modeling Real Estate Dynamics using Temporal Encoding"
+  image: 
+  authors: C Jiang, J Li, W Wang, and WS Ku
+  description:
+  link:
+    url: 
+    display:  ACM SIGSPATIAL 2021
+  highlight: 1
+  
 - title: "LShape Partitioning: Parallel Skyline Query Processing using MapReduce"
   image: 
   authors: H Wijayanto, W Wang, WS Ku, and LP Chen
@@ -6,7 +15,6 @@
     url: https://doi.org/10.1109/ICDE51399.2021.00256
     display:  IEEE ICDE 2021
   highlight: 1
-
 
 - title: "A Natural Language Interface for Database: Achieving Transfer-learnability Using Adversarial Method for Question Understanding"
   image: 
