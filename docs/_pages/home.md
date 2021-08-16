@@ -32,3 +32,6 @@ GeoSpatial AI and Big Data.
 
 ### News
 - Recruting PhD student for Spring 2022.
+- [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL.
+- [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
+- [04/2021] Our paper "LShape Partitioning: Parallel Skyline Query Processing using MapReduce" is presented at ICDE TKDE Poster session.
