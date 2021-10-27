@@ -10,6 +10,7 @@ permalink: /service/
 #### Journal Review
 
 2021
+- Springer Knowledge and Information Systems (KAIS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Vehicular Technology Magazine (VTM)                         
