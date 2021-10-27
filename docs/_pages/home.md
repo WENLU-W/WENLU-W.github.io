@@ -32,6 +32,7 @@ GeoSpatial AI, Deep Learning, and Big Data.
 
 ### News
 - Recruting PhD student for Spring 2022.
+- [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
 - [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL (accept rate 22.4%).
 - [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
 - [04/2021] Our paper "LShape Partitioning: Parallel Skyline Query Processing using MapReduce" is presented at ICDE TKDE Poster session.
