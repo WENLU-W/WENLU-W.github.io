@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wenlu.jpg" class="img-responsive" width="60%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/wenlu1.jpg" class="img-responsive" width="60%" style="float: left" />
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
@@ -32,7 +32,8 @@ GeoSpatial AI, Deep Learning, and Big Data.
 
 ### News
 - Recruting PhD student for Spring 2022.
-- [10/2021] Our paper is accepted by IEEE BigData (accept rate 19.9%).
+- [11/2021] One paper is accepted by DATE 2022.
+- [10/2021] One paper is accepted by IEEE BigData 2021 (accept rate 19.9%).
 - [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
 - [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL (accept rate 22.4%).
 - [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
