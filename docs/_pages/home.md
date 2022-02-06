@@ -15,7 +15,6 @@ Department of Computing Sciences<br>
 Texas A&M University - Corpus Christi<br>
 Email: wenlu.wang.1@gmail.com<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">Google Scholar</a>&nbsp;
-<a href="https://g.co/kgs/oSGoMz">Google Knowledge Panel</a>
 <br>
 <br>
 <br></i>
