@@ -30,7 +30,7 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 GeoSpatial AI, Deep Learning, and Big Data.
 
 ### News
-- Recruting PhD student for Spring 2022.
+- Recruting PhD student for Fall 2022.
 - [11/2021] One paper is accepted by DATE 2022.
 - [10/2021] One paper is accepted by IEEE BigData 2021 (accept rate 19.9%).
 - [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
