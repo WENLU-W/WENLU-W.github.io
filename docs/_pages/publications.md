@@ -8,7 +8,8 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en), [Conference and Workshop](#conference-papers), [Journal Publications](#journal-papers)
 
-Conferences: ICDE, EDBT, SIGSPATIAL, CIKM
+Conference: ICDE, EDBT, SIGSPATIAL, CIKM
+
 Jounrnal: TKDE, VLDBJ
 
 #### Conference Papers
