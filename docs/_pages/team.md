@@ -6,18 +6,17 @@ sitemap: false
 permalink: /team/
 ---
 
-### Lab
 
 ## Research Interests
 
 - Deep Learning
-- Deep Natural Language Interface
+- [Deep Natural Language Interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
 - Multimodal Learning
 
 
 ## Location
 
-- Engineering lab
+- Engineering building
 
 
 ## Team
