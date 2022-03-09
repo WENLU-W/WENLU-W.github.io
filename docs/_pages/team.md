@@ -14,11 +14,6 @@ permalink: /team/
 - Multimodal Learning
 
 
-## Location
-
-- Engineering building
-
-
 ## Team
 
 - Shaik Mohammed Ali Sheriff (Master student)
@@ -31,5 +26,7 @@ permalink: /team/
 - Basava Gajavalli (Master student)
 
 
+## Location
 
+- Engineering building
 
