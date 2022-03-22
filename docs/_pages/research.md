@@ -16,9 +16,6 @@ permalink: /research/
 </ul>
 
 
-
-
-
 <!--
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/" style="width: 150px">
