@@ -27,7 +27,7 @@ Email: wenlu.wang.1@gmail.com<br>
 Wenlu Wang is an assistant professor in the Department of Computing Sciences at Texas A&M University Corpus Christi. She received her Ph.D. degree from the Department of Computer Science and Software Engineering at Auburn University in 2020 (supervised by [Wei-Shinn Ku](http://www.eng.auburn.edu/~weishinn/)). She received the B.E. degree in computer science at Beihang University, and the M.S. degree in computer science at New York University.
 
 ### Research Interests
-Deep Learning, GeoSpatial AI, Deep Natural Language Interface, and Big Data.
+Deep Learning, Multimodal Learning, Deep Natural Language Interface, and Cloud Computing.
 
 ### News
 - Recruting PhD student for Fall 2022.
