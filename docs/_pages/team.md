@@ -17,8 +17,8 @@ permalink: /team/
 ## Team
 
 - Shaik Mohammed Ali Sheriff (Master student)
-- Huanyi Zhou (remote advising) 
-- Wenbo Sun (remote advising)
+- Huanyi Zhou (PhD, remote advising) 
+- Wenbo Sun (Master student, remote advising)
 
 
 ## Alumni
