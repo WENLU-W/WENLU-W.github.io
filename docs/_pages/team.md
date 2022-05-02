@@ -23,7 +23,7 @@ permalink: /team/
 
 ## Alumni
 
-- Basava Gajavalli (Master student)
+- Basava Gajavalli (Master student -> Walmart Global Tech)
 
 
 ## Location
