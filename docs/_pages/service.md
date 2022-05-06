@@ -7,21 +7,20 @@ permalink: /service/
 ---
 ### Professional Activities
 
-#### Journal Review
+#### Journal Review  
 
-2021
 - Springer Knowledge and Information Systems (KAIS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Vehicular Technology Magazine (VTM)                         
-
-Previous
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) 
-- Springer Knowledge and Information Systems (KAIS)
 - IEEE Transactions on Big Data (TBD)
+
+#### PC Member
+
+- IEEE BigData 2022
 
 
 ### Awards
 
 - Walt Woltosz Fellowship, Auburn University    2015-2018
-- <a href="https://src.acm.org/winners/2017">Third Place</a>, ACM SIGSPATIAL Student Research Competition    2016
+- <a href="https://src.acm.org/winners/2017">Bronze medal</a>, ACM SIGSPATIAL Student Research Competition    2016
