@@ -10,3 +10,4 @@ permalink: /teaching/
 ### Courses
 
 - Deep Learning 
+- Machine Learning
