@@ -13,6 +13,7 @@ permalink: /team/
 - [Deep Natural Language Interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
 - Multimodal Learning
 
+ <! -- 
 
 ## Team
 
@@ -31,3 +32,4 @@ permalink: /team/
 
 - Engineering building
 
+--> 
