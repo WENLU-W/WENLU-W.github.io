@@ -14,6 +14,7 @@ permalink: /service/
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Vehicular Technology Magazine (VTM)                         
 - IEEE Transactions on Big Data (TBD)
+- Springer Distributed and Parallel Databases (DAPD)
 
 #### PC Member
 
