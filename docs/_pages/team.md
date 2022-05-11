@@ -14,7 +14,7 @@ permalink: /team/
 - Multimodal Learning
 
 
-<!-- 
+<!--
 
 ## Team
 
@@ -33,4 +33,4 @@ permalink: /team/
 
 - Engineering building
 
---> 
+-->
