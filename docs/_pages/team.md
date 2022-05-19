@@ -14,3 +14,16 @@ permalink: /team/
 - Multimodal Learning
 
 
+## Team
+
+- Shaik Mohammed Ali Sheriff (Master student)
+- Huanyi Zhou (PhD, remote advising) 
+- Wenbo Sun (Master student, remote advising)
+- Yufan Zhou (remote advising)
+
+
+## Alumni
+
+- Basava Gajavalli (Master student -> Walmart Global Tech)
+
+
