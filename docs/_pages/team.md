@@ -1,20 +1,21 @@
 ---
-title: "Lab"
+title: "WANG Lab"
 layout: gridlay
 excerpt: "Group members"
 sitemap: false
 permalink: /team/
 ---
 
+## WANG Lab
 
-## Research Interests
+### Research
 
 - Deep Learning
 - [Deep Natural Language Interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
 - Multimodal Learning
 
 
-## Team
+### Team
 
 - Shaik Mohammed Ali Sheriff (Master student)
 - Huanyi Zhou (PhD, remote advising) 
@@ -22,7 +23,7 @@ permalink: /team/
 - Yufan Zhou (remote advising)
 
 
-## Alumni
+### Alumni
 
 - Basava Gajavalli (Master student -> Walmart Global Tech)
 
