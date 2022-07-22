@@ -36,3 +36,13 @@ permalink: /team/
 - Basava Gajavalli (Master student -> Walmart Global Tech)
 
 
+### Collaboration
+
+<center><figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpg" style="width: 150px">
+</figure></center>
+
