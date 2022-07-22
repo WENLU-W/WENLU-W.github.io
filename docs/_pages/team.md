@@ -8,12 +8,12 @@ permalink: /team/
 
 ## WANG Lab
 
+[Publications](https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en)
 
 ### Research
 
-- Deep Learning / Machine Learning
-- 
-- Multimodal Learning
+- Deep learning & Machine learning
+- Multimodal learning
 - Computational biology & chemistry
 
 
