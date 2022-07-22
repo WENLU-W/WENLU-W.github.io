@@ -39,13 +39,13 @@ Deep learning & Machine learning, Multimodal learning, Computational biology & c
 - Basava Gajavalli (Master student -> Walmart Global Tech)
 
 
-### Research Collaboration
+### Past & current collaboration
 
 <center><figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 150px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 150px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 150px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 150px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 100px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 100px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 60px; box-shadow: none">
 </figure></center>
 
