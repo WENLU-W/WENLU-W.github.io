@@ -9,7 +9,7 @@ permalink: /team/
 ## WANG Lab
 
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
 </a>
 
 
@@ -42,10 +42,10 @@ Deep learning & Machine learning, Multimodal learning, Computational biology & c
 ### Research Collaboration
 
 <center><figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 150px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 150px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 150px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 150px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 100px; box-shadow: none">
 </figure></center>
 
