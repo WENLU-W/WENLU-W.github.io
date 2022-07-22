@@ -39,7 +39,7 @@ Deep learning & Machine learning, Multimodal learning, Computational biology & c
 - Basava Gajavalli (Master student -> Walmart Global Tech)
 
 
-### Past & current collaboration
+### Past & current collaborations
 
 <center><figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
