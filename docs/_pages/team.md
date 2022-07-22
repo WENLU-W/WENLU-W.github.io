@@ -20,7 +20,7 @@ permalink: /team/
 ### Product
 
 - [Deep Natural Language Interface to Databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
-- [EasyParallel](https://github.com/hzz0024/EasyParallel) is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. 
+- [EasyParallel](https://github.com/hzz0024/EasyParallel) is a cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 
 
 ### Team
