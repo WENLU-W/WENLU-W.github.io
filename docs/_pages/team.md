@@ -13,7 +13,7 @@ permalink: /team/
 </a>
 
 
-Deep learning & Machine learning &nbsp;&nbsp; Multimodal learning &nbsp;&nbsp; Computational biology & chemistry
+Deep learning & Machine learning &nbsp;&nbsp; Multimodal learning &nbsp;&nbsp; Computational biology & chemistry &nbsp;&nbsp;
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>
