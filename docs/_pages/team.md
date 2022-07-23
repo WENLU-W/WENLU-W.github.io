@@ -21,10 +21,11 @@ Deep learning & Machine learning, Multimodal learning, Computational biology & c
 ### Product
 
 - [Deep Natural Language Interface to Databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
-- [Adversarial and clean data are not twins](https://arxiv.org/abs/1704.04960) [Citation: [240](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444569704600302435)]
 - <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a> is a cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 
+### Selected work
 
+- [Adversarial and clean data are not twins](https://arxiv.org/abs/1704.04960) [Citation: [240](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444569704600302435)]
 
 ### Team
 
@@ -33,13 +34,11 @@ Deep learning & Machine learning, Multimodal learning, Computational biology & c
 - Wenbo Sun (Multimodal Query)
 - Yufan Zhou (Computational Chemistry) 
 
-
-### Alumni
-
+#### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
 
 
-### Past & current collaborations
+### Current & past collaborations
 
 <center><figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
