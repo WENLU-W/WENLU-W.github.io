@@ -13,10 +13,11 @@ permalink: /team/
 </a>
 
 
-Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computational biology & chemistry &nbsp;&nbsp;
+
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>
+</a>&nbsp;&nbsp;
+Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computational biology & chemistry 
 
 ### Selected Products
 
