@@ -17,6 +17,11 @@ permalink: /team/
 </a>&nbsp;&nbsp;
 Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computational biology & chemistry 
 
+<center><figure class="second">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px">
+</figure></center>
+
 ### Selected Products
 
 - [Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
@@ -32,13 +37,6 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
-
-
-<center><figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px">
-</figure></center>
-
 
 ### Current & Past Collaborations
 
