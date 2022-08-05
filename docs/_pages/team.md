@@ -8,25 +8,22 @@ permalink: /team/
 
 ## WANG Lab
 
-
-
-
-
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
 Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computational biology & chemistry 
 
-<center><figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px">
-</figure></center>
 
 ### Selected Products
 
 - [Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
 - <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>a cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 - [Adversarial and clean data are not twins](https://arxiv.org/abs/1704.04960) [Citation: [240](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444569704600302435)]
+
+<center><figure class="second">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
+</figure></center>
 
 ### Team
 
