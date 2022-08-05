@@ -8,9 +8,7 @@ permalink: /team/
 
 ## WANG Lab
 
-<a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
-</a>
+
 
 
 
