@@ -37,8 +37,8 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 
 
 <center><figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 500px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px">
 </figure></center>
 
 
