@@ -19,7 +19,6 @@ Email: wenlu.wang.1@gmail.com<br>
 </a>&nbsp;
 <a href="https://wenlu-w.github.io/team/">WANG Lab</a>&nbsp;
 <br>
-<br>
 <br></i>
 <br>
 </ul>
