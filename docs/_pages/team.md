@@ -27,7 +27,7 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 
 ### Team
 
-- Shaik Mohammed Ali Sheriff (Master student)
+- Rishitha Vemula (Master student)
 - Huanyi Zhou (Spatio-temporal Analysis) 
 - Wenbo Sun (Multimodal Query)
 - Yufan Zhou (Computational Chemistry) 
