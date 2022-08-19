@@ -36,6 +36,7 @@ I also work on sequential modeling for high-impact applications including: [natu
 
 ### News
 - Recruting PhD student for Fall 2022. 
+- [08/2022] Our project "Deep Learning-based Drug Discovery for COVID-19" is funded by AWS Cloud Credit for Research program. Thanks to AWS!  
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
 - [03/2022] Join IEEE BigData 2022 PC.
 - [11/2021] One paper is accepted by DATE 2022.
