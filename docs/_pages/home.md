@@ -13,7 +13,7 @@ permalink: /
 <i>Assistant Professor<br>
 Department of Computing Sciences<br>
 Texas A&M University - Corpus Christi<br>
-Email: wenlu.wang.1@gmail.com<br>
+Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
         <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
 </a>&nbsp;
@@ -31,11 +31,14 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 ### Research Interests
 <b>Deep Learning and Machine Learning</b>.
 
+<p style="color:red">I am open to interdisciplinary or any other types of collaborations, feel free to drop me an email!</p>
+
+
 I also work on sequential modeling for high-impact applications including: [natural language interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html), <b>[GeoSpatial AI](https://wenlu-w.github.io/project/2021/06/01/spatial.html)</b>, and computational biology & chemistry.
 
 
 ### News
-- Recruting PhD student for Fall 2022. 
+- Recruting PhD student for Spring 2023 (Remote advising is also welcome!). 
 - [08/2022] Our project "Deep Learning-based Drug Discovery for COVID-19" is funded by AWS Cloud Credit for Research program. Thanks to AWS!  
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
 - [03/2022] Join IEEE BigData 2022 PC.

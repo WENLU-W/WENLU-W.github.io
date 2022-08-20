@@ -31,6 +31,7 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 - Huanyi Zhou (Spatio-temporal Analysis) 
 - Wenbo Sun (Multimodal Query)
 - Yufan Zhou (Computational Chemistry) 
+- Chen Jiang (Spatio-temporal Analysis, remote advising)
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
