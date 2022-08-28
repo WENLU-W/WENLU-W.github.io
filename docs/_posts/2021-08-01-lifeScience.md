@@ -75,7 +75,7 @@ Computational biology and chemistry.<br>
 
 <h3 class="step_head">Related publications</h3>
 <div class="row">
--
+- 
 </div>
 
 </div>
