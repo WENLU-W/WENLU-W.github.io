@@ -71,12 +71,14 @@ Computational biology and chemistry.<br>
 
 <div class="tabcontent" id="biology" style="display:none;">
 
-- <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>a cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
+<a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 
+<!--
 <h3 class="step_head">Related publications</h3>
 <div class="row">
 - 
 </div>
+-->
 
 </div>
 
@@ -85,10 +87,14 @@ Computational biology and chemistry.<br>
 
 Deep learn based computational chemistry.
 
+<!--
 <h3 class="step_head">Related publications</h3>
 <div class="row">
 - 
+-
+-
 </div>
+-->
 
 </div>
 
