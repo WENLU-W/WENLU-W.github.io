@@ -25,13 +25,12 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
 </figure></center>
 
-### Team
+### Advisees & Collaborators
 
 - Rishitha Vemula (Master student)
-- Huanyi Zhou (Spatio-temporal Analysis) 
-- Wenbo Sun (Multimodal Query)
 - Yufan Zhou (Computational Chemistry) 
-- Chen Jiang (Spatio-temporal Analysis, remote advising)
+- Chen Jiang (Spatio-temporal Analysis)
+- Huanyi Zhou (Spatio-temporal Analysis)
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
