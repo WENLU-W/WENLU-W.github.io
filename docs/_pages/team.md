@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-## WANG Lab
+## Artificial Intelligence Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
