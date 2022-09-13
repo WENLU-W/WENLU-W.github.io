@@ -8,7 +8,7 @@ permalink: /recruit/
 
 ### Recruiting
 
-RA openings are available for highly self-motivated Ph.D. students starting Fall 2022.
+RA openings are available for highly self-motivated Ph.D. students starting Spring 2023.
 
 The research topic is flexible. I’m currently interested in Deep Learning and Multimodal Learning.
 
