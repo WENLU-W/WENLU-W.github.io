@@ -20,7 +20,7 @@ Computational biology and chemistry.<br>
     	/* Style the tab */
 	.tab {
 	  overflow: hidden;
-	  background-color: #cceeff;
+	  background-color: #cacdcf;
 	}
 
 	/* Style the buttons that are used to open the tab content */
