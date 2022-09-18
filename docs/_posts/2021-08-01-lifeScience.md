@@ -9,11 +9,11 @@ Computational biology and chemistry.<br>
 
 <style>
 	.dropdown-menu>.active {
-           background-color: #3967ac;
+           background-color: #333436;
         }
 	.img-fluid{border:1px solid #ccc;margin:5px 5px 5px 0px}
-	.step_head{font-size:1.25em;color:#3967ac;font-weight:bold;    border-bottom: 1.3px solid #3967ac;margin-top:10px;}
-	.sub_head{font-size:0.85em;color:#3967ac;font-weight:bold;margin-bottom:2px;}
+	.step_head{font-size:1.25em;color:#333436;font-weight:bold;    border-bottom: 1.3px solid #333436;margin-top:10px;}
+	.sub_head{font-size:0.85em;color:##333436;font-weight:bold;margin-bottom:2px;}
 	.doc-content p{font-size:0.9em;margin-bottom:2px;}
 	h2{font-size:1.25em;}
 	.target-title{color:#C03D96;font-weight:bold;text-decoration:underline}
@@ -36,12 +36,12 @@ Computational biology and chemistry.<br>
 
 	/* Change background color of buttons on hover */
 	.tab button:hover {
-	  background-color: #3967ac;
+	  background-color: #333436;
 	}
 
 	/* Create an active/current tablink class */
 	.tab button.active {
-	  background-color: #3967ac;
+	  background-color: #333436;
           color: #FFFFFF;
 	}
 
