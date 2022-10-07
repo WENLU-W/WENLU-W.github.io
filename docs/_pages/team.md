@@ -1,9 +1,9 @@
 ---
 title: "Lab"
 layout: gridlay
-excerpt: "Group members"
+excerpt: "Lab info"
 sitemap: false
-permalink: /team/
+permalink: /ailab/
 ---
 
 ## Artificial Intelligence Lab
@@ -27,10 +27,13 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 
 ### Advisees & Collaborators
 
-- Rishitha Vemula (Master student)
-- Yufan Zhou (Computational Chemistry) 
-- Chen Jiang (Spatio-temporal Analysis)
-- Huanyi Zhou (Spatio-temporal Analysis)
+- Rishitha Vemula (data visualization)
+- Mohammed Ali Shaik (linguistic models)
+- Xuedi Yu (retrosynthesis planning)
+- Yufan Zhou (computational chemistry) 
+- Chen Jiang (spatio-temporal analysis)
+- Huanyi Zhou (spatio-temporal analysis)
+- Honggang Zhao (computational biology)
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
