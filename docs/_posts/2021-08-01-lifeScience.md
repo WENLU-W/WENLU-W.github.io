@@ -61,10 +61,10 @@ We use AI for <br>
 <div class="tab-pane" id="overview_mac">
 
 <div class="tab">
-<button class="tablinks" onclick="show(event, 'biology')">
+<button class="tablinks" onclick="show(event, 'chemistry')">
         AI in Chemistry
 </button>
-<button class="tablinks" onclick="show(event, 'chemistry')">
+<button class="tablinks" onclick="show(event, 'biology')">
         AI in Genetics
 </button>
 
@@ -75,6 +75,11 @@ We use AI for <br>
 <div class="tabcontent" id="biology" style="display:none;">
 
 <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
+
+<a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/adv-removal.png" style="width: 300px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf]()
+
+
+
 
 <!--
 <h3 class="step_head">Related publications</h3>

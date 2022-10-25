@@ -17,7 +17,7 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 ### Selected Products
 
 - [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)
-- [AI in chemistry & genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
+- [AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
 - [Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
 
 
