@@ -74,9 +74,11 @@ We use AI for <br>
 
 <div class="tabcontent" id="biology" style="display:none;">
 
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/adv-removal.png" style="width: 300px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf]()
+
+
 <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 
-<a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/adv-removal.png" style="width: 300px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf]()
 
 
 
@@ -93,7 +95,7 @@ We use AI for <br>
 
 <div class="tabcontent" id="chemistry" style="display:none;">
 
-<a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 500px; box-shadow: none"></a><br>A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [pdf](https://arxiv.org/pdf/2210.08749.pdf)
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 500px; box-shadow: none"></a><br>A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [pdf](https://arxiv.org/pdf/2210.08749.pdf)
 
 <!--
 <h3 class="step_head">Related publications</h3>
