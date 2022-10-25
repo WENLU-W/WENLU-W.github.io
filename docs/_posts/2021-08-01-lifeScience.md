@@ -75,7 +75,7 @@ We use AI for <br>
 <div class="tabcontent" id="biology" style="display:none;">
 
 
-<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/adv-removal.png" style="width: 400px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf]
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/adv-removal.png" style="width: 500px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. 
 
 
 <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
