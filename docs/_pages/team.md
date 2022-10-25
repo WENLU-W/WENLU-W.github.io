@@ -11,14 +11,14 @@ permalink: /ailab/
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
-Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computational biology & chemistry 
+Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html) &nbsp;&nbsp; [AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
 
 
 ### Selected Products
 
-- [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)
-- [AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
-- [Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
+- <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
+- <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
+- <ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
 
 
 <center><figure class="second">
