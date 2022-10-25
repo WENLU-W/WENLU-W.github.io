@@ -36,9 +36,9 @@ I work on  <b>sequential modeling</b> for high-impact applications including: <i
 
 ### News
 - Recruting PhD student for Spring 2023 (Remote advising is also welcome!). 
-- [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track.  
+- [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track. Thanks to our collaborators from Auburn University, California State University, and Microsoft!
 - [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS! 
-- [08/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is accepted by IEEE Big Data 2022. Thanks to our collaborator!
+- [08/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is accepted by IEEE Big Data 2022. Thanks to our collaborators!
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
 - [03/2022] Join IEEE BigData 2022 PC.
 - [11/2021] One paper is accepted by DATE 2022.
