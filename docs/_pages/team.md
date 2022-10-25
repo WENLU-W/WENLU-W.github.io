@@ -17,8 +17,9 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 ### Selected Products
 
 - [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)
+- [AI in chemistry & genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
 - [Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)
-- [Adversarial and clean data are not twins](https://arxiv.org/abs/1704.04960) [Citation: [240](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444569704600302435)]
+
 
 <center><figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
@@ -28,11 +29,10 @@ Deep learning & Machine learning &nbsp;&nbsp; GeoSpatial AI &nbsp;&nbsp; Computa
 ### Advisees & Collaborators
 
 - Rishitha Vemula (data visualization)
-- Mohammed Ali Shaik (linguistic models)
-- Xuedi Yu (retrosynthesis planning)
-- Yufan Zhou (computational chemistry) 
+- Mohammed Ali Shaik (linguistic models) 
 - Chen Jiang (spatio-temporal analysis)
 - Huanyi Zhou (spatio-temporal analysis)
+- Yufan Zhou (computational chemistry)
 - Honggang Zhao (computational biology)
 
 #### Alumni

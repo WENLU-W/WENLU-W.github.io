@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Computational Biology & Chemistry"
+title:  "AI in Chemistry & Genetics"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
 
-Computational biology and chemistry.<br>
+We use AI for <br>
+
+- drug discovery
+- genomic selection
 
 <style>
 	.dropdown-menu>.active {
@@ -59,10 +62,10 @@ Computational biology and chemistry.<br>
 
 <div class="tab">
 <button class="tablinks" onclick="show(event, 'biology')">
-        Computational biology
+        AI in Chemistry
 </button>
 <button class="tablinks" onclick="show(event, 'chemistry')">
-        Computational chemistry
+        AI in Genetics
 </button>
 
 
@@ -85,7 +88,7 @@ Computational biology and chemistry.<br>
 
 <div class="tabcontent" id="chemistry" style="display:none;">
 
-Deep learn based computational chemistry.
+<a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 500px; box-shadow: none"></a><br>A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [pdf](https://arxiv.org/pdf/2210.08749.pdf)
 
 <!--
 <h3 class="step_head">Related publications</h3>
