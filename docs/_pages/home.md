@@ -36,10 +36,10 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 I work on  <b>sequential modeling</b> for high-impact applications including: [spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html), [natural language interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html), computational biology & chemistry, and interdisciplinary research.
 
 
-
 ### News
 - Recruting PhD student for Spring 2023 (Remote advising is also welcome!). 
-- [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS!  
+- [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track.  
+- [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS! 
 - [08/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is accepted by IEEE Big Data 2022. Thanks to our collaborator!
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
 - [03/2022] Join IEEE BigData 2022 PC.
