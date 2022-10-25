@@ -33,7 +33,7 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 
 <p style="color:red">I am open to collaborations, feel free to drop me an email!</p>
 
-I work on  <b>sequential modeling</b> for high-impact applications including: <ins>[spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>, <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>, <ins>[natural language interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>, and interdisciplinary research.
+I work on  <b>sequential modeling</b> for high-impact applications including: <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>, <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>, <ins>[Natural Language Interface](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>, and interdisciplinary research.
 
 
 ### News
