@@ -20,20 +20,21 @@ Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.githu
 - <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
 - <ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
 
-
+<!--
 <center><figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
 </figure></center>
+-->
 
-### Advisees & Collaborators
+### Advisees
 
 - Rishitha Vemula (data visualization)
 - Mohammed Ali Shaik (linguistic models) 
 - Chen Jiang (spatio-temporal analysis)
 - Huanyi Zhou (spatio-temporal analysis)
 - Yufan Zhou (computational chemistry)
-- Honggang Zhao (computational biology)
+
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
