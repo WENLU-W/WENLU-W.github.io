@@ -15,10 +15,15 @@ permalink: /service/
 - IEEE Vehicular Technology Magazine (VTM)                         
 - IEEE Transactions on Big Data (TBD)
 - Springer Distributed and Parallel Databases (DAPD)
+- The Royal Society of Chemistry Digital Discovery
 
 #### PC Member
 
 - IEEE BigData 2022
+
+#### Tutorial
+
+- Spatial Big Data Meets AI: Applications and Perspectives
 
 
 ### Awards
