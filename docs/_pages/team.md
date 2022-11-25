@@ -30,11 +30,9 @@ Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.githu
 ### Advisees
 
 - Rishitha Vemula (data visualization)
-- Mohammed Ali Shaik (linguistic models) 
 - Chen Jiang (spatio-temporal analysis)
-- Huanyi Zhou (spatio-temporal analysis)
-- Yufan Zhou (computational chemistry)
-
+- Yufan Zhou (AI in chemistry)
+- Xuedi Yu (AI in chemistry)
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
