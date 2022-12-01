@@ -9,13 +9,15 @@ permalink: /service/
 
 #### Journal Review  
 
+- The Royal Society of Chemistry Digital Discovery
+- Springer Complex & Intelligent Systems (CAIS)
 - Springer Knowledge and Information Systems (KAIS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Vehicular Technology Magazine (VTM)                         
 - IEEE Transactions on Big Data (TBD)
 - Springer Distributed and Parallel Databases (DAPD)
-- The Royal Society of Chemistry Digital Discovery
+
 
 #### PC Member
 
