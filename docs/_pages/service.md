@@ -10,6 +10,7 @@ permalink: /service/
 #### Journal Review  
 
 - The Royal Society of Chemistry Digital Discovery
+- The Royal Society of Chemistry Analytical Methods
 - Springer Complex & Intelligent Systems (CAIS)
 - Springer Knowledge and Information Systems (KAIS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
