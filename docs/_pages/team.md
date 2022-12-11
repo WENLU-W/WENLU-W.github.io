@@ -14,11 +14,26 @@ permalink: /ailab/
 Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html) &nbsp;&nbsp; [AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
 
 
-### Selected Products
+### Projects
 
-- <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
-- <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
-- <ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
+Deep Sequential Modeling for Interdisciplinary research 
+
+#### + Spatial locality
+
+<ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
+
+#### + Small molecules 
+
+<ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
+
+#### + Imaging
+
+<ins>[Computed Tomography (CT)]()</ins>
+
+#### + NLP
+
+<ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
+
 
 <!--
 <center><figure class="second">
@@ -31,8 +46,8 @@ Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.githu
 
 - Rishitha Vemula (data visualization)
 - Chen Jiang (spatio-temporal analysis)
-- Yufan Zhou (AI in chemistry)
-- Xuedi Yu (AI in chemistry)
+- Yufan Zhou (AIDD)
+- Xuedi Yu (AIDD)
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
