@@ -20,19 +20,19 @@ Deep Sequential Modeling for Interdisciplinary research
 
 ##### + Spatial locality
 
-<ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
+	<ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
 
 ##### + Small molecules 
 
-<ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
+	<ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
 
 ##### + Imaging
 
-<ins>[Computed Tomography (CT)]()</ins>
+	<ins>[Computed Tomography (CT)]()</ins>
 
 ##### + NLP
 
-<ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
+	<ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
 
 
 <!--
