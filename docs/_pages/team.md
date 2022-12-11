@@ -18,19 +18,19 @@ Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.githu
 
 Deep Sequential Modeling for Interdisciplinary research 
 
-#### + Spatial locality
+##### + Spatial locality
 
 <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
 
-#### + Small molecules 
+##### + Small molecules 
 
 <ins>[AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html)</ins>
 
-#### + Imaging
+##### + Imaging
 
 <ins>[Computed Tomography (CT)]()</ins>
 
-#### + NLP
+##### + NLP
 
 <ins>[Deep natural language interface to databases](https://wenlu-w.github.io/project/2021/01/01/NLIDB.html)</ins>
 
