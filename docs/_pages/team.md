@@ -11,7 +11,7 @@ permalink: /ailab/
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
-Deep learning & Machine learning &nbsp;&nbsp; [Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html) &nbsp;&nbsp; [AI in Chemistry & Genetics](https://wenlu-w.github.io/project/2021/09/01/lifeScience.html) 
+Deep learning & Machine learning &nbsp;&nbsp; 
 
 
 ### Projects
