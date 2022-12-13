@@ -11,7 +11,7 @@ permalink: /ailab/
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
-Deep learning & Machine learning &nbsp;&nbsp; 
+Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Research
 
 
 ### Projects
