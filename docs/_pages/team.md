@@ -18,23 +18,23 @@ Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Resea
 
 Deep Sequential Modeling for Interdisciplinary research 
 
-##### + Spatial locality
+##### + **Spatial locality**
 
 &nbsp;&nbsp;&nbsp; <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins> <br>
 &nbsp;&nbsp;&nbsp; - Precipitation, extreme weather, geophysics, etc. <br>
-&nbsp;&nbsp;&nbsp; - Transportation, road safety, etc.
+&nbsp;&nbsp;&nbsp; - Transportation, road safety, etc. <br>
 
-##### + Small molecules 
+##### + **Small molecules** 
 
-&nbsp;&nbsp;&nbsp; <ins>[AI for Molecular Design](https://wenlu-w.github.io/project/2021/09/01/chem.html)</ins>
+&nbsp;&nbsp;&nbsp; <ins>[AI for Molecular Design](https://wenlu-w.github.io/project/2021/09/01/chem.html)</ins> <br>
 
-##### + Genetics
+##### + **Genetics**
 
-&nbsp;&nbsp;&nbsp; <ins>[AI for Genomic selection](https://wenlu-w.github.io/project/2021/09/01/bio.html)</ins>
+&nbsp;&nbsp;&nbsp; <ins>[AI for Genomic selection](https://wenlu-w.github.io/project/2021/09/01/bio.html)</ins> <br>
 
-##### + Imaging
+##### + **Imaging**
 
-&nbsp;&nbsp;&nbsp; <ins>[Computed Tomography (CT)]()</ins>
+&nbsp;&nbsp;&nbsp; <ins>[Computed Tomography (CT)]()</ins> <br>
 
 
 
