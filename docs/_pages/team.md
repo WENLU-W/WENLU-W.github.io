@@ -25,9 +25,12 @@ Deep Sequential Modeling for Interdisciplinary research
 
 ##### **+ Small molecules** 
 &nbsp;&nbsp;&nbsp; <ins>[AI for Molecular Design](https://wenlu-w.github.io/project/2021/09/01/chem.html)</ins> <br>
+&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
+&nbsp;&nbsp;&nbsp; - Material design. <br>
 
 ##### **+ Genetics**
 &nbsp;&nbsp;&nbsp; <ins>[AI for Genomic selection](https://wenlu-w.github.io/project/2021/09/01/bio.html)</ins> <br>
+&nbsp;&nbsp;&nbsp; - Phenotype prediction. <br>
 
 ##### **+ Imaging**
 &nbsp;&nbsp;&nbsp; <ins>[Computed Tomography (CT)]()</ins> <br>
