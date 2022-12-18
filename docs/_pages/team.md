@@ -20,7 +20,9 @@ Deep Sequential Modeling for Interdisciplinary research
 
 ##### + Spatial locality
 
-&nbsp;&nbsp; <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
+&nbsp;&nbsp;&nbsp; <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins>
+&nbsp;&nbsp;&nbsp; - Precipitation, extreme weather, geophysics, etc.
+&nbsp;&nbsp;&nbsp; - Transportation, road safety, etc.
 
 ##### + Small molecules 
 
