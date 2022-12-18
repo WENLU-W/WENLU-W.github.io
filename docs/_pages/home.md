@@ -35,7 +35,8 @@ I work on <b>sequential modeling</b> for high-impact interdisciplinary AI resear
 
 
 ### News
-- Recruting PhD student for Spring 2023 (Remote advising is also welcome!). 
+- Recruting PhD student for Fall 2023 (Remote advising is also welcome!). 
+- [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online]().
 - [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track. Thanks to our collaborators from Auburn University, California State University, and Microsoft!
 - [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS! 
 - [08/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is accepted by IEEE Big Data 2022. Thanks to our collaborators!
