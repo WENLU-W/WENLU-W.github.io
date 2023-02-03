@@ -31,7 +31,8 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 ### Research Interests
 <b>Deep Learning and Machine Learning</b>.
 
-I work on <b>sequential modeling</b> for high-impact [interdisciplinary AI research]((https://wenlu-w.github.io/ailab/)), inluding [Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2021/05/01/llm.html), [AI for BioMedical](), and [AI for Engineered Infrustructures]().
+I work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, inluding <br>
+<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2021/01/01/llm.html)</ins>, [AI for BioMedical](), and [AI for Engineered Infrustructures]().
 
 
 ### News
