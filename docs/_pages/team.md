@@ -17,35 +17,27 @@ Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Resea
 ### Projects
 
 <b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
+
 <!--
 Deep Sequential Modeling for Interdisciplinary research 
-
 **+ Spatial locality** <br>
 &nbsp;&nbsp;&nbsp; <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins> <br>
 &nbsp;&nbsp;&nbsp; - Precipitation, extreme weather, geophysics, etc. <br>
 &nbsp;&nbsp;&nbsp; - Transportation, road safety, etc. <br>
-
 **+ Small molecules** <br>
 &nbsp;&nbsp;&nbsp; <ins>[AI for Molecular Design](https://wenlu-w.github.io/project/2021/09/01/chem.html)</ins> <br>
 &nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 &nbsp;&nbsp;&nbsp; - Material design. <br>
-
 **+ Genetics** <br>
 &nbsp;&nbsp;&nbsp; <ins>[AI for Genomic selection](https://wenlu-w.github.io/project/2021/09/01/bio.html)</ins> <br>
 &nbsp;&nbsp;&nbsp; - Phenotype prediction. <br>
-
 **+ Imaging** <br>
 &nbsp;&nbsp;&nbsp; <ins>[Computed Tomography (CT)]()</ins> <br>
-
-
-
-
 <center><figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
 </figure></center>
 -->
-
 
 We work on sequential modeling for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
 <br><ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins><br>
