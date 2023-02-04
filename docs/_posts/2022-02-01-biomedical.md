@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "AI in Genetics"
+title:  "AI in BioMedical"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
+
+We use sequential modeling for <br>
+
+- Drug discovery.
+- Genomics phenotyping in Agriculture.
+- X-ray CT image reconstruction, restoration, and enhancement.
 
 <style>
 	.dropdown-menu>.active {
@@ -54,33 +60,43 @@ categories: Project
 
 
 <div class="tab-pane" id="overview_mac">
+
 <div class="tab">
+<button class="tablinks" onclick="show(event, 'chemistry')">
+        Generative molecular design
+</button>
+<button class="tablinks" onclick="show(event, 'retro')">
+        Retrosynthesis planning
+</button>
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
 </button>
-<button class="tablinks" onclick="show(event, 'tools')">
-        Tools
+<button class="tablinks" onclick="show(event, 'CT')">
+        X-ray CT image
 </button>
+</div>
+
+
+<div class="tabcontent" id="retro" style="display:none;">
+We work on AI based retrosynthetic accessibility estimation.
+</div>
+
+
+<div class="tabcontent" id="chemistry" style="display:none;">
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 300px; box-shadow: none"></a><br>A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [pdf](https://arxiv.org/pdf/2210.08749.pdf)
 </div>
 
 
 <div class="tabcontent" id="biology" style="display:none;">
-
-
-<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 500px; box-shadow: none"></a><br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. 
-
-
-</div>
-
-
-<div class="tabcontent" id="tools" style="display:none;">
-
-
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 300px; box-shadow: none"></a>
+<br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. 
 <a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
-
-
 </div>
 
+
+<div class="tabcontent" id="CT" style="display:none;">
+We work on AI based X-ray CT image reconstruction.
+</div>
 
 
 
