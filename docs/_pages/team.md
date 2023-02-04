@@ -1,12 +1,12 @@
 ---
-title: "AISM Lab"
+title: "AIS Lab"
 layout: gridlay
 excerpt: "Lab info"
 sitemap: false
 permalink: /ailab/
 ---
 
-## AISM Lab
+## AIS Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
@@ -16,7 +16,7 @@ Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Resea
 
 ### Projects
 
-<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential <b>M</b>odeling
+<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 <!--
 Deep Sequential Modeling for Interdisciplinary research 
 
