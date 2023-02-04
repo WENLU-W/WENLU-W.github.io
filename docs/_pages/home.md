@@ -17,8 +17,7 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
         <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
 </a>&nbsp;
-<a href="https://wenlu-w.github.io/ailab/"><b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling Lab</a>&nbsp;
-<br>
+<a href="https://wenlu-w.github.io/ailab/">AIS Lab</a>&nbsp;
 <br></i>
 <br>
 </ul>
