@@ -13,10 +13,9 @@ permalink: /ailab/
 </a>&nbsp;&nbsp;
 Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Research
 
+<br><b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 
 ### Projects
-
-<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 
 <!--
 Deep Sequential Modeling for Interdisciplinary research 
@@ -39,8 +38,7 @@ Deep Sequential Modeling for Interdisciplinary research
 </figure></center>
 -->
 
-We work on sequential modeling for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
-<br><ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins><br>
+We work on sequential modeling for high-impact interdisciplinary AI research
 <br><ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins><br>
 &nbsp;&nbsp;&nbsp; - Road safety. <br>
 &nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
