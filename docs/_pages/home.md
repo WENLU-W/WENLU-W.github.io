@@ -17,7 +17,7 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
         <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
 </a>&nbsp;
-<a href="https://wenlu-w.github.io/ailab/">Artificial Intelligence Lab</a>&nbsp;
+<a href="https://wenlu-w.github.io/ailab/">**AISM** **A**rtificial Intelligence for **S**equential **M**odeling Lab</a>&nbsp;
 <br>
 <br></i>
 <br>
@@ -31,8 +31,10 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 ### Research Interests
 <b>Deep Learning and Machine Learning</b>.
 
-I work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including <br>
-<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>, [AI for social good](),and [AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html).
+I work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
+- <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
+- <ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
+- <ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins>
 
 
 ### News

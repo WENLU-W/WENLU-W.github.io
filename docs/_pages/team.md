@@ -1,12 +1,12 @@
 ---
-title: "Lab"
+title: "AISM Lab"
 layout: gridlay
 excerpt: "Lab info"
 sitemap: false
 permalink: /ailab/
 ---
 
-## Artificial Intelligence Lab
+## AISM - Artificial Intelligence for Sequential Modeling Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
@@ -43,6 +43,19 @@ Deep Sequential Modeling for Interdisciplinary research
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
 </figure></center>
 -->
+
+
+We work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
+<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
+<ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
+&nbsp;&nbsp;&nbsp; - Road safety. <br>
+&nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
+&nbsp;&nbsp;&nbsp; - Coastal Bend. <br>
+<ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins>
+&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
+&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
+&nbsp;&nbsp;&nbsp; - X-ray CT image reconstruction, restoration, and enhancement. <br>
+
 
 ### Advisees
 
