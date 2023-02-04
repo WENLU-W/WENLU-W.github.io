@@ -13,7 +13,7 @@ permalink: /ailab/
 </a>&nbsp;&nbsp;
 Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Research
 
-<br><b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
+<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 
 ### Projects
 
