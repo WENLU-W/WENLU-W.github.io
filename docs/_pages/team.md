@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ailab/
 ---
 
-## AISM - Artificial Intelligence for Sequential Modeling Lab
+## AISM Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
@@ -16,6 +16,9 @@ Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Resea
 
 ### Projects
 
+<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential <b>M</b>odeling
+
+<!--
 Deep Sequential Modeling for Interdisciplinary research 
 
 **+ Spatial locality** <br>
@@ -37,7 +40,7 @@ Deep Sequential Modeling for Interdisciplinary research
 
 
 
-<!--
+
 <center><figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
@@ -46,12 +49,17 @@ Deep Sequential Modeling for Interdisciplinary research
 
 
 We work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
-<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
-<ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
+
+<br><ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins><br>
+
+<br><ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins><br>
+
 &nbsp;&nbsp;&nbsp; - Road safety. <br>
 &nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
 &nbsp;&nbsp;&nbsp; - Coastal Bend. <br>
-<ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins>
+
+<br><ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins><br>
+
 &nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 &nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
 &nbsp;&nbsp;&nbsp; - X-ray CT image reconstruction, restoration, and enhancement. <br>
@@ -59,10 +67,11 @@ We work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI
 
 ### Advisees
 
-- Rishitha Vemula (data visualization)
+- Rishitha Vemula 
 - Chen Jiang (spatio-temporal analysis)
-- Yufan Zhou (AIDD)
+- Yufan Zhou 
 - Xuedi Yu (AIDD)
+- Ali Mohammed Shaik 
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
