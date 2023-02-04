@@ -18,7 +18,7 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
         <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
 </a>&nbsp;
 <a href="https://wenlu-w.github.io/ailab/">AIS Lab</a>&nbsp;
-<br></i>
+</i>
 <br>
 </ul>
 </div>
