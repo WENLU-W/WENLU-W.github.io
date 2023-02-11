@@ -1,19 +1,20 @@
 ---
-title: "AIS Lab"
+title: "AI Lab"
 layout: gridlay
 excerpt: "Lab info"
 sitemap: false
 permalink: /ailab/
 ---
 
-## AIS Lab
+## AI Lab
+
+<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
 Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Research
 
-<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
 
 ### Projects
 
@@ -60,9 +61,8 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 
 - Rishitha Vemula 
 - Chen Jiang (spatio-temporal analysis)
-- Yufan Zhou 
 - Xuedi Yu (AIDD)
-- Ali Mohammed Shaik 
+- Mohammed Ali Shaik 
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
