@@ -46,14 +46,14 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 
 * <ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 
-&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
-&nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
+	&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
+	&nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
 
 * <ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins>
 
-&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
-&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
-&nbsp;&nbsp;&nbsp; - X-ray CT image reconstruction, restoration, and enhancement. <br>
+	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
+	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
+	&nbsp;&nbsp;&nbsp; - X-ray CT image reconstruction, restoration, and enhancement. <br>
 
 
 
