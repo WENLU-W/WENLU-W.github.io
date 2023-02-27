@@ -49,7 +49,7 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 	&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
 	&nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
 
-* <ins>[AI for BioMedical](https://wenlu-w.github.io/project/2021/09/01/biomedical.html)<ins>
+* <ins>[AI for Sequential Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
 	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
