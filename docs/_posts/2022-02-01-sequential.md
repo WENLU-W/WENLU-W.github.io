@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI in BioMedical"
+title:  "AI for Sequential Modeling"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
