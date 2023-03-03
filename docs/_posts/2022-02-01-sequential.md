@@ -8,7 +8,6 @@ categories: Project
 We use sequential modeling for <br>
 
 - Drug discovery.
-- Genomics phenotyping in Agriculture.
 - X-ray CT image reconstruction, restoration, and enhancement.
 
 <style>
@@ -68,9 +67,11 @@ We use sequential modeling for <br>
 <button class="tablinks" onclick="show(event, 'retro')">
         Retrosynthesis planning
 </button>
+<!--
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
 </button>
+-->
 <button class="tablinks" onclick="show(event, 'CT')">
         X-ray CT image
 </button>
@@ -87,12 +88,13 @@ We work on AI based retrosynthetic accessibility estimation.
 </div>
 
 
+<!--
 <div class="tabcontent" id="biology" style="display:none;">
 <a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 300px; box-shadow: none"></a>
 <br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. 
 <br><a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 </div>
-
+-->
 
 <div class="tabcontent" id="CT" style="display:none;">
 We work on AI based X-ray CT image reconstruction.
