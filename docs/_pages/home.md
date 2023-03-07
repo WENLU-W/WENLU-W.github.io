@@ -38,6 +38,7 @@ I work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI 
 
 ### News
 - Recruting PhD student for Fall 2023 (Remote advising is also welcome!). 
+- [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted.  
 - [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online]().
 - [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track. Thanks to our collaborators from Auburn University, California State University, and Microsoft!
 - [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS! 
