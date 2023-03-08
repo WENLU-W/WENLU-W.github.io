@@ -53,7 +53,6 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 
 	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
-	&nbsp;&nbsp;&nbsp; - X-ray CT image reconstruction, restoration, and enhancement. <br>
 
 
 
