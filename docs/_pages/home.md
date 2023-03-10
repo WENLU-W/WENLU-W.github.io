@@ -11,7 +11,8 @@ permalink: /
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
 <i>Assistant Professor of Computer Science<br>
-Department of Computer Science, College of Engineering and Computer Science<br>
+Department of Computer Science<br>
+College of Engineering and Computer Science<br>
 Texas A&M University - Corpus Christi<br>
 Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
