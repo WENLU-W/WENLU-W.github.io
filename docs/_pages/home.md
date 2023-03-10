@@ -10,7 +10,7 @@ permalink: /
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
-<i>Assistant Professor of Computer Science<br>
+<i>Assistant Professor<br>
 Department of Computer Science<br>
 College of Engineering and Computer Science<br>
 Texas A&M University - Corpus Christi<br>
