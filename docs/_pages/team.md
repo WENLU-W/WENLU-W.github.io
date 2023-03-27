@@ -43,16 +43,15 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 
 * <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 
-
-* <ins>[AI for Social Good](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
+* <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 
 	&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
-	&nbsp;&nbsp;&nbsp; - Economic inequalities. <br>
 
 * <ins>[AI for Sequential Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
 	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
+
 
 
 
