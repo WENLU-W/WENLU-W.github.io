@@ -40,15 +40,9 @@ I work on <b>sequential modeling</b> for high-impact <ins>[interdisciplinary AI 
 ### News
 - Recruting PhD student for Fall 2023 (Remote advising is also welcome!). 
 - [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted.  
+- [03/2023] Join IEEE BigData 2023 PC.
 - [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online]().
-- [10/2022] Our paper "Regression based Optimizer Statistics generation based on q-error" has been accepted by 2022 IEEE International Conference on Big Data Industry track. Thanks to our collaborators from Auburn University, California State University, and Microsoft!
-- [08/2022] Our computational chemistry project is funded by AWS Cloud Credit for Research program. Thanks to AWS! 
-- [08/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is accepted by IEEE Big Data 2022. Thanks to our collaborators!
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
-- [03/2022] Join IEEE BigData 2022 PC.
-- [11/2021] One paper is accepted by DATE 2022.
-- [10/2021] One paper is accepted by IEEE BigData 2021 (accept rate 19.9%).
-- [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
-- [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL (accept rate 22.4%).
-- [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
-- [04/2021] Our paper "LShape Partitioning: Parallel Skyline Query Processing using MapReduce" is presented at ICDE TKDE Poster session.
+
+
+
