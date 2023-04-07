@@ -39,7 +39,7 @@ Deep Sequential Modeling for Interdisciplinary research
 </figure></center>
 -->
 
-We work on sequential modeling for high-impact interdisciplinary AI research
+We work on sequence modeling for high-impact interdisciplinary AI research
 
 * <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 
@@ -47,7 +47,7 @@ We work on sequential modeling for high-impact interdisciplinary AI research
 
 	&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
 
-* <ins>[AI for Sequential Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
+* <ins>[AI for Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
 	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
 	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
