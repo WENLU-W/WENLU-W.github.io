@@ -96,8 +96,9 @@ We work on AI based retrosynthetic accessibility estimation.
 
 
 <div class="tabcontent" id="CT" style="display:none;">
-We work on AI based X-ray CT image reconstruction.
 <a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/CT.png" style="width: 500px; box-shadow: none"></a>
+<br>AI based X-ray CT image reconstruction.
+
 </div>
 
 
