@@ -89,7 +89,7 @@ We work on AI based retrosynthetic accessibility estimation.
 
 
 <div class="tabcontent" id="biology" style="display:none;">
-<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 300px; box-shadow: none"></a>
+<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 500px; box-shadow: none"></a>
 <br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. 
 <br><a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
 </div>
