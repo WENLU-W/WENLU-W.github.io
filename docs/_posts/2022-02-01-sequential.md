@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI for Sequential Modeling"
+title:  "AI for Sequence Modeling"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
@@ -68,11 +68,9 @@ We use sequence modeling for <br>
 <button class="tablinks" onclick="show(event, 'retro')">
         Retrosynthesis planning
 </button>
-<!--
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
 </button>
--->
 <button class="tablinks" onclick="show(event, 'CT')">
         X-ray CT image
 </button>
