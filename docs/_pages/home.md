@@ -33,13 +33,14 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 
 I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
 - <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
+	[LLM survey](https://github.com/VV123/LLM-papers)
 - <ins>[AI-powered Cyber-Physical Systems for Urban Resilience](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - <ins>[AI for Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
 
 ### News
 - Recruting PhD student for Fall 2023 (Remote advising is also welcome!). 
-- [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted.  
+- [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted by Springer Nature Geoinformatica (collaboration with researchers of Instacart and Meta).  
 - [03/2023] Join IEEE BigData 2023 PC.
 - [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online]().
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
