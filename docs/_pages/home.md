@@ -39,11 +39,18 @@ I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI re
 
 ### News
 - Recruting PhD student for Fall 2023 (Remote advising is also welcome!). 
-- Check out our [LLM survey](https://github.com/VV123/LLM-papers).
-- [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted by Springer Nature Geoinformatica (collaboration with researchers of Instacart and Meta).  
+- Check out our <ins>[Large Language Model (LLM) survey](https://github.com/VV123/LLM-papers)</ins>.
+- [03/2023] Our paper "Multilingual Spatial Domain Natural Language Interface to Databases" is accepted by Springer Nature Geoinformatica (collaboration with Meta and Instacart).  
 - [03/2023] Join IEEE BigData 2023 PC.
-- [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online]().
+- [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online](). Thanks to our collaborator from the University of Tokyo!
 - [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
+- [03/2022] Join IEEE BigData 2022 PC.
+- [11/2021] One paper is accepted by DATE 2022.
+- [10/2021] One paper is accepted by IEEE BigData 2021 (accept rate 19.9%).
+- [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
+- [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL (accept rate 22.4%).
+- [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
+- [04/2021] Our paper "LShape Partitioning: Parallel Skyline Query Processing using MapReduce" is presented at ICDE TKDE Poster session.
 
 
 
