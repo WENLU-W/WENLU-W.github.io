@@ -46,7 +46,7 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 	&nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
 
-* <ins>[AI for Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
+* <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
 	&nbsp;&nbsp;&nbsp; - Generative molecular design. <br>
   &nbsp;&nbsp;&nbsp; - Genomics phenotyping. <br>
