@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "AI for Sequence Modeling"
+title:  "Deep Sequence Modeling"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
 
 We use sequence modeling for <br>
 
-- Drug discovery.
-- Genomics phenotyping in Agriculture.
+- Generative molecular design.
+- Genomics phenotyping.
+- AI-based retrosynthesis planning.
 - X-ray CT image reconstruction, restoration, and enhancement.
 
 <style>
@@ -65,11 +66,11 @@ We use sequence modeling for <br>
 <button class="tablinks" onclick="show(event, 'chemistry')">
         Generative molecular design
 </button>
-<button class="tablinks" onclick="show(event, 'retro')">
-        Retrosynthesis planning
-</button>
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
+</button>
+<button class="tablinks" onclick="show(event, 'retro')">
+        Retrosynthesis planning
 </button>
 <button class="tablinks" onclick="show(event, 'CT')">
         X-ray CT image
