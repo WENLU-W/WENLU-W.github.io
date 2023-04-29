@@ -8,12 +8,11 @@ permalink: /ailab/
 
 ## AI Lab
 
-<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equence modeling
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp;
-Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary Research
+Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary AI
 
 
 ### Projects
@@ -39,7 +38,7 @@ Deep Sequential Modeling for Interdisciplinary research
 </figure></center>
 -->
 
-We work on sequence modeling for high-impact interdisciplinary AI research
+We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 * <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 
