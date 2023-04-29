@@ -8,7 +8,7 @@ permalink: /ailab/
 
 ## AI Lab
 
-<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equential modeling
+<b>A</b>rtificial <b>I</b>ntelligence for <b>S</b>equence modeling
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
@@ -49,8 +49,10 @@ We work on sequence modeling for high-impact interdisciplinary AI research
 
 * <ins>[AI for Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
-	&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
-	&nbsp;&nbsp;&nbsp; - Genomics phenotyping in Agriculture. <br>
+	&nbsp;&nbsp;&nbsp; - Generative molecular design. <br>
+  &nbsp;&nbsp;&nbsp; - Genomics phenotyping. <br>
+  &nbsp;&nbsp;&nbsp; - AI-based retrosynthesis planning. <br>
+	
 
 
 
