@@ -53,9 +53,6 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
   &nbsp;&nbsp;&nbsp; - AI-based retrosynthesis planning. <br>
 	
 
-
-
-
 ### Advisees
 
 - Rishitha Vemula 
