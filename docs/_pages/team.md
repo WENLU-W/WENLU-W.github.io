@@ -55,10 +55,9 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 ### Advisees
 
-- Rishitha Vemula 
 - Chen Jiang (spatio-temporal analysis)
 - Xuedi Yu (AIDD)
-- Mohammed Ali Shaik 
+- Mohammed Ali Sheriff Shaik
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
