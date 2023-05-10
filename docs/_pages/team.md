@@ -41,6 +41,7 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 
 <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+&nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 <br>
 <br>
