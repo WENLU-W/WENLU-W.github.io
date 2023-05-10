@@ -22,8 +22,6 @@ permalink: /ailab/
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 
@@ -38,7 +36,7 @@ permalink: /ailab/
 <br>
 
 
-<img align="left" width="250" height="250" src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png"> 
+<img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png"> 
 &nbsp;<br>
 <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
