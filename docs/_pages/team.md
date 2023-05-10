@@ -39,13 +39,15 @@ Deep Sequential Modeling for Interdisciplinary research
 
 We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
-
-<img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+<p align="left">
+<img width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+</p>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 
 
-
+<p align="left">
 <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
+</p>
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - Urban resilience of engineering infrastructures. 
 
