@@ -53,7 +53,7 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 | ![Flowers]({{site.url}}{{site.baseurl}}/images/weather2.png) | Urban resilience of engineering infrastructures. |
 
 
-<p align="left">
+<p>
   <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
   Urban resilience of engineering infrastructures. 
 </p>
@@ -62,11 +62,12 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 
+<p>
 <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
 - Generative molecular design. 
 - Genomics phenotyping. 
 - AI-based retrosynthesis planning. 
-
+</p>
 
 	
 
