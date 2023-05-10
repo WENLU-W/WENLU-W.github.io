@@ -36,15 +36,14 @@ permalink: /ailab/
 <br>
 
 
-<img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png"> 
+<img align="left" width="250" height="120" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png"> 
 &nbsp;<br>
 <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
 - AI-based retrosynthesis planning. 
-<br>
-<br>
-<br>
+
+
 
 
 
