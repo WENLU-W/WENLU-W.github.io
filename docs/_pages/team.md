@@ -11,8 +11,7 @@ permalink: /ailab/
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>&nbsp;&nbsp;
-Deep learning &nbsp;&nbsp; Machine learning &nbsp;&nbsp; Interdisciplinary AI
+</a>&nbsp;&nbsp;Deep learning &nbsp;&nbsp; Interdisciplinary AI
 
 
 ### Projects
@@ -42,9 +41,9 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 * <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 
-<kbd>
-  <img align="right" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png">
-</kbd>
+  <kbd>
+    <img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" >
+  </kbd>
 
 * <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 
@@ -52,7 +51,7 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
 
 <kbd>
-  <img align="right" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png">
+  <img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png">
 </kbd>
 
 * <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
