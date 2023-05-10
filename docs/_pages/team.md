@@ -39,17 +39,17 @@ Deep Sequential Modeling for Interdisciplinary research
 
 We currently work on Deep Learning-based <b>Sequence Modeling</b>
 
-<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins></br>
+<ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins><br>
 
-<kbd> <img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" ></kbd></br>
+<kbd> <img align="float: left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > </kbd> <br>
 
-<ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins></br>
+<ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins><br>
 
-<kbd><img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"></kbd>
+<kbd> <img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> </kbd>
 &nbsp;&nbsp;&nbsp; - Urban resilience of engineering infrastructures. <br>
 
-<ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins></br>
-<kbd><img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"></kbd>
+<ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins><br>
+<kbd> <img align="float: left" width="200" height="100" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> </kbd>
 &nbsp;&nbsp;&nbsp; - Generative molecular design. <br>
 &nbsp;&nbsp;&nbsp; - Genomics phenotyping. <br>
 &nbsp;&nbsp;&nbsp; - AI-based retrosynthesis planning. <br>
