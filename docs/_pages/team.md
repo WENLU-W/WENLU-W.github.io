@@ -13,11 +13,11 @@ permalink: /ailab/
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
 </a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Interdisciplinary AI
 
-
 ------------------------------------------
 <img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
 &nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
+<br>
 <br>
 <br>
 <br>
