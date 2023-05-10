@@ -50,18 +50,18 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 <p>
   <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
   <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
-  - Urban resilience of engineering infrastructures. 
+  Urban resilience of engineering infrastructures. 
 </p>
 
 
 
-<p>
+
 <img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
 <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
 - AI-based retrosynthesis planning. 
-</p>
+
 
 	
 
