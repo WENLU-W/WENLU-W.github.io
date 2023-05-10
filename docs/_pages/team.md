@@ -11,36 +11,11 @@ permalink: /ailab/
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>&nbsp;&nbsp;Deep learning &nbsp;&nbsp; Interdisciplinary AI
+</a>&nbsp;&nbsp;<b>Sequence Modeling</b>&nbsp;&nbsp;Deep learning &nbsp;&nbsp; Interdisciplinary AI
 
 
-### Projects
 
-<!--
-Deep Sequential Modeling for Interdisciplinary research 
-**+ Spatial locality** <br>
-&nbsp;&nbsp;&nbsp; <ins>[Spatial AI](https://wenlu-w.github.io/project/2021/09/01/spatial.html)</ins> <br>
-&nbsp;&nbsp;&nbsp; - Precipitation, extreme weather, geophysics, etc. <br>
-&nbsp;&nbsp;&nbsp; - Transportation, road safety, etc. <br>
-**+ Small molecules** <br>
-&nbsp;&nbsp;&nbsp; <ins>[AI for Molecular Design](https://wenlu-w.github.io/project/2021/09/01/chem.html)</ins> <br>
-&nbsp;&nbsp;&nbsp; - Drug discovery. <br>
-&nbsp;&nbsp;&nbsp; - Material design. <br>
-**+ Genetics** <br>
-&nbsp;&nbsp;&nbsp; <ins>[AI for Genomic selection](https://wenlu-w.github.io/project/2021/09/01/bio.html)</ins> <br>
-&nbsp;&nbsp;&nbsp; - Phenotype prediction. <br>
-**+ Imaging** <br>
-&nbsp;&nbsp;&nbsp; <ins>[Computed Tomography (CT)]()</ins> <br>
-<center><figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab1.jpg" style="width: 400px; height: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab2.jpg" style="width: 400px; height: 250px">
-</figure></center>
--->
-
-We currently work on Deep Learning-based <b>Sequence Modeling</b>
-
-
-<img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+<img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
 &nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 <br>
@@ -63,7 +38,7 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 <br>
 
 
-<img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
+<img align="left" width="250" height="250" src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png"> 
 &nbsp;<br>
 <ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
@@ -72,7 +47,8 @@ We currently work on Deep Learning-based <b>Sequence Modeling</b>
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 
 	
