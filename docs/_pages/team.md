@@ -49,7 +49,7 @@ permalink: /ailab/
 
 - Chen Jiang (spatio-temporal analysis)
 - Xuedi Yu (AIDD)
-- Mohammed Ali Sheriff Shaik
+- Mavoori Sreenidhi
 
 #### Alumni
 - Basava Gajavalli (Master student -> Walmart Global Tech)
