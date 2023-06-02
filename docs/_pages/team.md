@@ -1,5 +1,5 @@
 ---
-title: "AI Lab"
+title: "Lab"
 layout: gridlay
 excerpt: "Lab info"
 sitemap: false
