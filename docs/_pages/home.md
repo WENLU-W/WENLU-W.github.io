@@ -40,7 +40,7 @@ I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI re
 ### News
 - Recruting PhD student for Fall 2023. 
 - Check out our <ins>[Large Language Model (LLM) survey](https://github.com/VV123/LLM-papers)</ins>.
-- [04/2023] Our paper ["Multilingual Spatial Domain Natural Language Interface to Databases"](https://link.springer.com/article/10.1007/s10707-023-00496-3) [shared link](https://rdcu.be/da2Of) is published by Springer Nature Geoinformatica (collaboration with Meta and Instacart).  
+- [04/2023] Our paper ["Multilingual Spatial Domain Natural Language Interface to Databases"](https://link.springer.com/article/10.1007/s10707-023-00496-3) [(shared link)](https://rdcu.be/da2Of) is published by Springer Nature Geoinformatica (collaboration with Meta and Instacart).  
 - [04/2023] Mohammed presented his work "Adaptive Visual Interaction Experience for Refractive Errors Using AI" at 3MT competition. Ashutosh Mishra presented his work "Emulating bridge deck aeroelastic forces under forced vibrations via machine learning" at TAMUCC student symposium. 
 - [03/2023] Join IEEE BigData 2023 PC.
 - [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online](). Thanks to our collaborator from the University of Tokyo!

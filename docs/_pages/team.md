@@ -59,7 +59,7 @@ permalink: /ailab/
 <center><figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/CAT.png" style="width: 60px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
 </figure></center>
