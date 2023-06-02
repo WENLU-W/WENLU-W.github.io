@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ailab/
 ---
 
-## Lab
+## Wenlu Wang's Lab
 
 
 <a href="https://wenlu-w.github.io/">
