@@ -6,12 +6,12 @@ sitemap: false
 permalink: /ailab/
 ---
 
-## AI Lab
+## Lab
 
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Interdisciplinary AI
+</a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 
 ------------------------------------------
 <img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
@@ -35,7 +35,7 @@ permalink: /ailab/
 ------------------------------------------
 <img align="left" width="250" height="120" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png"> 
 &nbsp;<br>
-<ins>[Deep Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
+<ins>[Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
 - AI-based retrosynthesis planning. 
@@ -57,9 +57,10 @@ permalink: /ailab/
 ### Current & Past Collaborations
 
 <center><figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/cornell.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CAT.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 60px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
 </figure></center>
 
