@@ -64,7 +64,7 @@ We use sequence modeling for <br>
 
 <div class="tab">
 <button class="tablinks" onclick="show(event, 'chemistry')">
-        Generative molecular design
+        Generative AI molecular design
 </button>
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
@@ -84,7 +84,15 @@ We work on AI based retrosynthetic accessibility estimation.
 
 
 <div class="tabcontent" id="chemistry" style="display:none;">
-<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 300px; box-shadow: none"></a><br>A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [pdf](https://arxiv.org/pdf/2210.08749.pdf)
+
+<center><figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/drugdiscovery.png" style="width: 300px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/EGFR.png" style="width: 200px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/HTR1A.png" style="width: 200px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/S1PR1.png" style="width: 200px; box-shadow: none">
+</figure></center>
+
+<br>cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [pdf](https://www.mdpi.com/1420-3049/28/11/4430) 
 </div>
 
 
