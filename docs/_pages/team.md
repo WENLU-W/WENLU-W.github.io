@@ -15,7 +15,7 @@ permalink: /ailab/
 
 ------------------------------------------
 <div style="height: 150px; width: 250px; border: 2px solid  gray;">
-<img align="left" style="max-height:100%; max-width:100%;" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
+<img align="left" style="max-height:100%; " src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
 </div>
 &nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
@@ -26,7 +26,7 @@ permalink: /ailab/
 
 ------------------------------------------
 <div style="height: 150px; width: 250px; border: 2px solid  gray;">
-<img align="left" style="max-height:100%; max-width:100%;" hsrc="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+<img align="left" style="max-height:100%; max-width:100%;" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
 </div>
 &nbsp;<br>
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
