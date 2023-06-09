@@ -14,7 +14,9 @@ permalink: /ailab/
 </a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 
 ------------------------------------------
+<div style="height: 250px; width: 250px; border: 2px solid  gray;">
 <img align="left" width="250" height="100" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
+</div>
 &nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 <br>
@@ -23,7 +25,9 @@ permalink: /ailab/
 <br>
 
 ------------------------------------------
-<img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png"> 
+<div style="height: 250px; width: 250px; border: 2px solid  gray;">
+<img align="left" width="250" height="150" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+</div>
 &nbsp;<br>
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - Urban resilience of engineering infrastructures. 
@@ -33,7 +37,9 @@ permalink: /ailab/
 <br>
 
 ------------------------------------------
-<img align="left" width="250" height="120" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png"> 
+<div style="height: 250px; width: 250px; border: 2px solid  gray;">
+<img align="left" width="250" height="120" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" > 
+</div>
 &nbsp;<br>
 <ins>[Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
