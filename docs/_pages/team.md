@@ -15,7 +15,7 @@ permalink: /ailab/
 
 ------------------------------------------
 <div style="width: 100%;">
-<div style="float: left; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 850px;"> 
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
