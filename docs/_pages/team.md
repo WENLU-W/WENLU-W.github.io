@@ -14,35 +14,34 @@ permalink: /ailab/
 </a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 
 ------------------------------------------
+<div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
+<div style="height: 150px; width: 1000px;"> 
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
-<br>
-<br>
-<br>
-<br>
-
+</div>
+</div>
 ------------------------------------------
+<div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/weather2.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
+<div style="height: 150px; width: 1000px;"> 
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - Urban resilience of engineering infrastructures. 
-<br>
-<br>
-<br>
-<br>
-
+</div>
+</div>
 ------------------------------------------
+<div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
+<div style="height: 150px; width: 1000px;"> 
 <ins>[Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
 - AI-based retrosynthesis planning. 
-
+</div>
+</div>
 ------------------------------------------
-
-
 	
 
 ### Advisees
