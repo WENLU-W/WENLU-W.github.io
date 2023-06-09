@@ -16,10 +16,6 @@ permalink: /ailab/
 ------------------------------------------
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;">
-<img align="left" style="max-height:150px; max-width: 250px;" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
-</div>
-&nbsp;<br>
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 <br>
 <br>
@@ -27,10 +23,8 @@ permalink: /ailab/
 <br>
 
 ------------------------------------------
-<div style="height: 150px; width: 250px; border: 2px solid  gray;">
-<img align="left" style="max-height:100%; max-width:100%;" src="{{ site.url }}{{ site.baseurl }}/images/weather2.png" > 
+<div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/weather2.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-&nbsp;<br>
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - Urban resilience of engineering infrastructures. 
 <br>
@@ -39,10 +33,8 @@ permalink: /ailab/
 <br>
 
 ------------------------------------------
-<div style="height: 150px; width: 250px; border: 2px solid  gray;">
-<img align="left" style="max-height:100%; max-width:100%;" src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" > 
+<div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-&nbsp;<br>
 <ins>[Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
