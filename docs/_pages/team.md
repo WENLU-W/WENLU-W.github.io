@@ -17,7 +17,7 @@ permalink: /ailab/
 <div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 150px; width: 1000px;"> 
+<div style="height: 150px; width: 700px;"> 
 <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 </div>
 </div>
@@ -25,7 +25,7 @@ permalink: /ailab/
 <div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/weather2.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 150px; width: 1000px;"> 
+<div style="height: 150px; width: 700px;"> 
 <ins>[AI-powered Cyber-Physical Systems](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
 - Urban resilience of engineering infrastructures. 
 </div>
@@ -34,7 +34,7 @@ permalink: /ailab/
 <div style="width: 100%;">
 <div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 150px; width: 1000px;"> 
+<div style="height: 150px; width: 700px;"> 
 <ins>[Sequence Modeling](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
