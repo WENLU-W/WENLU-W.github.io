@@ -14,7 +14,9 @@ permalink: /ailab/
 </a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 
 ------------------------------------------
-<div style="height: 150px; width: 250px; border: 2px solid  gray;">
+<div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+</div>
+<div style="height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;">
 <img align="left" style="max-height:150px; max-width: 250px;" src="{{ site.url }}{{ site.baseurl }}/images/nlidb.png" > 
 </div>
 &nbsp;<br>
