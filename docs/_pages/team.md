@@ -6,12 +6,12 @@ sitemap: false
 permalink: /ailab/
 ---
 
-## Wenlu Wang's Lab
-
+## AIII Lab
+Artificial Intelligence, Interdisciplinary, and Innovation Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>&nbsp;&nbsp; <b>Sequence Modeling</b> &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
+</a>&nbsp;&nbsp; Sequence Modeling &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 
 ------------------------------------------
 <div style="width: 100%;">
