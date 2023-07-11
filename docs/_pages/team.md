@@ -7,7 +7,7 @@ permalink: /ailab/
 ---
 
 ## AIII Lab
-Artificial Intelligence, Interdisciplinary, and Innovation Lab
+Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 <a href="https://wenlu-w.github.io/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
