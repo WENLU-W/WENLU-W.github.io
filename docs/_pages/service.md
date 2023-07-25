@@ -31,6 +31,5 @@ permalink: /service/
 
 ### Awards
 
-- AWS Cloud Credit for Research  2022
 - Walt Woltosz Fellowship    2015-2018
 - <a href="https://src.acm.org/winners/2017">Bronze medal</a>, ACM SIGSPATIAL Student Research Competition    2016
