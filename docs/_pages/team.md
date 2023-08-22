@@ -44,8 +44,9 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Advisees
 
-- Chen Jiang (spatio-temporal analysis)
 - [Dai Le]()
+- [Fahad Jawed]()
+- Chen Jiang (spatio-temporal analysis)
 - Xuedi Yu (AIDD)
 - Mavoori Sreenidhi
 
