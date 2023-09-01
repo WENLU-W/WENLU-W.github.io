@@ -43,20 +43,20 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Sponsors
 
-<center><figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 60px; box-shadow: none">
+<left><figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
-</figure></center>
+</figure></left>
 
 ### Industrial Collaboration
 
-<center><figure class="fourth">
+<left><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
-</figure></center>
+</figure></left>
 
 ### Students
 
