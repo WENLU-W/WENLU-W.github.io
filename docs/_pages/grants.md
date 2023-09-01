@@ -1,13 +1,10 @@
 ---
 title: "Wenlu Wang" 
 layout: default
-excerpt: "Wenlu Wang - Teaching"
+excerpt: "Wenlu Wang - Grants"
 sitemap: false
-permalink: /teaching/
+permalink: /grants/
 ---
 
 
-### Courses
-
-- Deep Learning 
-- Machine Learning
+- NSF
