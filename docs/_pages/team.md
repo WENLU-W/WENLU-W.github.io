@@ -43,7 +43,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Sponsors
 
-<center><figure class="fifth">
+<center><figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 60px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
@@ -51,7 +51,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Industrial Collaboration
 
-<center><figure class="fifth">
+<center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
