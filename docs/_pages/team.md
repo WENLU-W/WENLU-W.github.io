@@ -41,6 +41,23 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 </div>
 ------------------------------------------
 
+### Sponsors
+
+<left><figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 100px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
+</figure></left>
+
+### Industrial Collaboration
+
+<left><figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
+</figure></left>
+
 ### Students
 
 - [Dai Le]()
@@ -49,22 +66,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 - Xuedi Yu (AIDD)
 - Mavoori Sreenidhi
 
-### Sponsors
 
-<center><figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
-</figure></center>
-
-### Industrial Collaboration
-
-<center><figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
-</figure></center>
 
 
 
