@@ -40,18 +40,6 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 </div>
 </div>
 ------------------------------------------
-	
-
-### Advisees
-
-- [Dai Le]()
-- [Fahad Jawed]()
-- Chen Jiang (spatio-temporal analysis)
-- Xuedi Yu (AIDD)
-- Mavoori Sreenidhi
-
-#### Alumni
-- Basava Gajavalli (Master student -> Walmart Global Tech)
 
 ### Sponsors
 
@@ -69,4 +57,17 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
 </figure></center>
+
+### Students
+
+- [Dai Le]()
+- [Fahad Jawed]()
+- Chen Jiang (spatio-temporal analysis)
+- Xuedi Yu (AIDD)
+- Mavoori Sreenidhi
+
+#### Alumni
+- Basava Gajavalli (Master student -> Walmart Global Tech)
+
+
 
