@@ -43,9 +43,9 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Students
 
-- [Dai Le]() (MS, Spring 2023 - )
 - [Fahad Jawed]() (PhD, Spring 2023 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
+- [Dai Le]() (MS, Spring 2023 - )
 - Mavoori Sreenidhi (MS, Fall 2022 - )
 - Harshith Sai Chikoti (MS, Fall 2022 - )
 
