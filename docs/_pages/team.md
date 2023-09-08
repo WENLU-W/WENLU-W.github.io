@@ -41,13 +41,18 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 </div>
 ------------------------------------------
 
-### Sponsors
+### Students
 
-<left><figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 100px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
-</figure></left>
+- [Dai Le]() (MS, Spring 2023 - )
+- [Fahad Jawed]() (PhD, Spring 2023 - )
+- Chen Jiang (PhD, Auburn University, Fall 2016 - )
+- Mavoori Sreenidhi (MS, Fall 2022 - )
+- Harshith Sai Chikoti (MS, Fall 2022 - )
+
+### Past students
+- Xuedi Yu -> Biogen Inc.
+
+
 
 ### Industrial Collaboration
 
@@ -58,13 +63,6 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
   <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
 </figure></left>
 
-### Students
-
-- [Dai Le]()
-- [Fahad Jawed]()
-- Chen Jiang (spatio-temporal analysis)
-- Xuedi Yu (AIDD)
-- Mavoori Sreenidhi
 
 
 
