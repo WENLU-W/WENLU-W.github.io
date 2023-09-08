@@ -51,7 +51,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Past students
 - Xuedi Yu -> Biogen Inc.
-
+- Basava Gajavalli -> Walmart Global Tech
 
 
 ### Industrial Collaboration
