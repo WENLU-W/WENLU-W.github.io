@@ -33,10 +33,10 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 <div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 700px;"> 
-  <ins>[AI for Healthcare](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
+  <ins>[AI for Biomedical & Agriculture](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
-- AI-based retrosynthesis planning. 
+- Equitable AI in Healthcare. 
 </div>
 </div>
 ------------------------------------------

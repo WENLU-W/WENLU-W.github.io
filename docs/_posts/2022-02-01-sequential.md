@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Sequence Modeling"
+title:  "AI for Biomedical & Agriculture"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
