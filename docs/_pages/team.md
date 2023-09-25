@@ -56,11 +56,10 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Industrial Collaboration
 
-<left><figure class="fourth">
+<left><figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microsoft.png" style="width: 100px; box-shadow: none">
 </figure></left>
 
 
