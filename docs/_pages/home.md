@@ -32,10 +32,10 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 <b>Data Science and Interdisciplinary Research</b>.
 
 <left><figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 100px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nih.png" style="width: 70px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 70px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 70px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
 </figure></left>
 
 ### News
