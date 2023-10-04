@@ -31,11 +31,14 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 ### Research Interests
 <b>Data Science and Deep Learning</b>.
 
-I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, including 
-- <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
-- <ins>[AI-powered Cyber-Physical Systems for Urban Resilience](https://wenlu-w.github.io/project/2021/09/01/social.html)</ins>
-- <ins>[Equitable Healthcare](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
+I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, and my work is supported by
 
+<left><figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nih.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 90px; box-shadow: none">
+</figure></left>
 
 ### News
 - Recruting two fully funded PhD student for Spring 2023. Feel free to send me your CV!
