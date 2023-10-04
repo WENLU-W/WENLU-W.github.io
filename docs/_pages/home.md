@@ -29,22 +29,20 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 Wenlu Wang is an assistant professor in the Department of Computing Sciences at Texas A&M University Corpus Christi. She received her Ph.D. degree from the Department of Computer Science and Software Engineering at Auburn University in 2020. She received the B.E. degree in computer science at Beihang University, and the M.S. degree in computer science at New York University.
 
 ### Research Interests
-<b>Data Science and Deep Learning</b>.
-
-I work on <b>sequence modeling</b> for high-impact <ins>[interdisciplinary AI research](https://wenlu-w.github.io/ailab/)</ins>, and my work is supported by
+<b>Data Science and Interdisciplinary Research</b>.
 
 <left><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/nih.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nih.png" style="width: 70px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 70px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 70px; box-shadow: none">
 </figure></left>
 
 ### News
 - Recruting two fully funded PhD student for Spring 2023. Feel free to send me your CV!
 - Check out our <ins>[Large Language Model (LLM) survey](https://github.com/VV123/LLM-papers)</ins>.
 - [09/2024] Our project working on equitable healthcare is selected by NIH. Thanks to NIH!
-- [08/2024] Our project is funded by NSF. Thanks to NSF!
+- [08/2024] Our project working on interdisciplinary research is funded by NSF. Thanks to NSF!
 - [05/2024] Check out our collaboration with Biogen - [CMolGPT](https://www.mdpi.com/1420-3049/28/11/4430) A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [(Code)](https://github.com/VV123/cMolGPT).
 - [04/2023] Our paper ["Multilingual Spatial Domain Natural Language Interface to Databases"](https://link.springer.com/article/10.1007/s10707-023-00496-3) [(shared link)](https://rdcu.be/da2Of) is published by Springer Nature Geoinformatica (collaboration with Meta and Instacart).  
 - [03/2023] Join IEEE BigData 2023 PC.
