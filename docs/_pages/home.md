@@ -46,9 +46,9 @@ We collaborate with Biogen Inc. and developed a Molecular GPT - <ins>[cMolGPT](h
 </div>
 </div>
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 30px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/sbir.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 35px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/sbir.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 30px; width: 700px;"> 
+<div style="height: 35px; width: 700px;"> 
   <ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
 </div>
 </div>
