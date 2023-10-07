@@ -39,14 +39,14 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 </figure></left>
 
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 80px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/biogen.jpeg);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 30px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/biogen.jpeg);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 700px;"> 
-We collaborate with Biogen Inc. and developed a <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)<ins> [Code](https://github.com/VV123/cMolGPT)
+We collaborate with Biogen Inc. and developed a Molecular GPT - <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)<ins> ([Code](https://github.com/VV123/cMolGPT))
 </div>
 </div>
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 50px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/water.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 50px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/sbir.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 700px;"> 
   <ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
