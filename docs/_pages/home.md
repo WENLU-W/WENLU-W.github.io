@@ -46,9 +46,9 @@ We collaborated with Biogen Inc. and developed a Molecular Generative Pre-traine
 </div>
 </div>
 <div style="width: 100%;">
-<div style="float: left; margin-right: 50px; margin-bottom:50px; height: 30px; width: 90px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/ccw.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 40px; margin-bottom:10px; height: 40px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/ccw.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
-<div style="height: 40px; width: 1000px;"> 
+<div style="height: 50px; width: 1000px;"> 
 We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. 
 </div>
 </div>
