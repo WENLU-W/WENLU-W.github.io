@@ -48,7 +48,6 @@ We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system 
 
 <br>
 <br>
-<br>
 
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" width="120px" style="margin-right:20px">
 <ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
