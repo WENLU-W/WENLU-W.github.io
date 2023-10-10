@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI for Biomedical & Agriculture"
-date:   2021-09-01 13:27:04 -0400
+date:   2022-02-01 13:27:04 -0400
 categories: Project
 ---
 
