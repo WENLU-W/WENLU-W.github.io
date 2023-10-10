@@ -39,12 +39,15 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 </figure></left>
 
 
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg">
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" width="90px">
 We collaborated with Biogen Inc. and developed a Molecular Generative Pre-trained Transformer, <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins>. cMolGPT is a valuable tool for *de novo* molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. ([Code](https://github.com/VV123/cMolGPT))
 
+<br>
 
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg">
-We collaborated with Biogen Inc. and developed a Molecular Generative Pre-trained Transformer, <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins>. cMolGPT is a valuable tool for *de novo* molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. ([Code](https://github.com/VV123/cMolGPT))
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/ccw.png" width="100px">
+We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. 
+
+<br>
 
 
 <div style="width: 100%;">
