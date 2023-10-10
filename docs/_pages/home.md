@@ -47,30 +47,12 @@ We collaborated with Biogen Inc. and developed a Molecular Generative Pre-traine
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/ccw.png" width="100px" margin-right="50px">
 We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. 
 
-<br>
+<br><br>
 
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" width="120px" margin-right="50px">
+<ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
 
-<div style="width: 100%;">
-<div style="float: left; margin-right: 50px; margin-bottom:50px; height: 30px; width: 90px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/biogen.jpeg);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
-</div>
-<div style="height: 80px;"> 
-We collaborated with Biogen Inc. and developed a Molecular Generative Pre-trained Transformer, <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins>. cMolGPT is a valuable tool for *de novo* molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. ([Code](https://github.com/VV123/cMolGPT))
-</div>
-</div>
-<div style="width: 100%;">
-<div style="float: left; margin-right: 40px; margin-bottom:10px; height: 40px; width: 100px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/ccw.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
-</div>
-<div style="height: 50px;"> 
-We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. 
-</div>
-</div>
-<div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 50px; width: 120px; border: 0px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/sbir.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
-</div>
-<div style="height: 40px;"> 
-  <ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
-</div>
-</div>
+<br><br>
 
 
 ### News
