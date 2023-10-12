@@ -44,13 +44,13 @@ We collaborated with Biogen Inc. and developed a Molecular Generative Pre-traine
 
 
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/ccw.png" width="100px" style="margin-right:40px">
-We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. 
+We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. We work on developing data-driven approaches to address real-world challenges.
 
 <br>
 <br>
 
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" width="120px" style="margin-right:20px">
-<ins>[Interdisciplinary AI](https://wenlu-w.github.io/project/2021/09/01/sequential.html)</ins>
+We work on technology transfer and develop data-driven approaches for life science challenges.
 
 <br>
 <br>
