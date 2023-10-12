@@ -28,7 +28,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 <div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/water.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 700px;"> 
-  - <ins>[AI-powered Diagnosis Augmented by Self-sustaining Sensing System for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
+  - <ins>[AI-powered Diagnosis for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
   - <ins>[Spatial-temporal Predictions]()</ins>
 </div>
 </div>
