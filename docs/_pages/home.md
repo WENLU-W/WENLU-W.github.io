@@ -47,7 +47,6 @@ We collaborated with Biogen Inc. and developed a Molecular Generative Pre-traine
 We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. We work on developing data-driven approaches to address real-world challenges.
 
 <br>
-<br>
 
 <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" width="120px" style="margin-right:20px">
 We work on technology transfer and develop data-driven approaches for life science challenges.
