@@ -9,8 +9,7 @@ We use sequence modeling for <br>
 
 - Generative molecular design.
 - Genomics phenotyping.
-- AI-based retrosynthesis planning.
-- X-ray CT image reconstruction, restoration, and enhancement.
+- AI in healthcare.
 
 <style>
 	.dropdown-menu>.active {
@@ -69,18 +68,9 @@ We use sequence modeling for <br>
 <button class="tablinks" onclick="show(event, 'biology')">
         Genomic selection
 </button>
-<button class="tablinks" onclick="show(event, 'retro')">
-        Retrosynthesis planning
-</button>
-<button class="tablinks" onclick="show(event, 'CT')">
-        X-ray CT image
-</button>
+
 </div>
 
-
-<div class="tabcontent" id="retro" style="display:none;">
-We work on AI based retrosynthetic accessibility estimation.
-</div>
 
 
 <div class="tabcontent" id="chemistry" style="display:none;">
@@ -93,6 +83,8 @@ We work on AI based retrosynthetic accessibility estimation.
 </figure></center>
 
 <br>cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [pdf](https://www.mdpi.com/1420-3049/28/11/4430) 
+<br>cMolGPT is a valuable tool for de novo molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. This project is a collaboration with Biogen Inc.
+
 </div>
 
 
@@ -104,11 +96,7 @@ We work on AI based retrosynthetic accessibility estimation.
 </div>
 
 
-<div class="tabcontent" id="CT" style="display:none;">
-<a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/CT.png" style="width: 500px; box-shadow: none"></a>
-<br>AI based X-ray CT image reconstruction.
 
-</div>
 
 
 
