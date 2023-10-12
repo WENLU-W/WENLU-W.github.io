@@ -82,8 +82,18 @@ We use sequence modeling for <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/S1PR1.png" style="width: 200px; box-shadow: none">
 </figure></center>
 
-<br>cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [pdf](https://www.mdpi.com/1420-3049/28/11/4430) 
-<br>cMolGPT is a valuable tool for de novo molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. This project is a collaboration with Biogen Inc.
+<br>cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [pdf](https://www.mdpi.com/1420-3049/28/11/4430) ([Code](https://github.com/VV123/cMolGPT))
+<br>cMolGPT is a valuable tool for de novo molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. 
+
+
+<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" width="90px" style="margin-right:50px">
+
+<br>
+
+This project is a collaboration with Biogen Inc.
+
+<br>
+
 
 </div>
 

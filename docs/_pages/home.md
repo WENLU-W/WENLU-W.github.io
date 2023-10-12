@@ -34,25 +34,10 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 <left><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 100px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nih.png" style="width: 70px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tglo.png" style="width: 60px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" style="width: 100px; box-shadow: none">
   <img src="{{ site.url }}{{ site.baseurl }}/images/aws.png" style="width: 60px; box-shadow: none">
 </figure></left>
 
-
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" width="90px" style="margin-right:50px">
-We collaborated with Biogen Inc. and developed a Molecular Generative Pre-trained Transformer, <ins>[cMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins>. cMolGPT is a valuable tool for *de novo* molecule design and accelerates the molecular optimization cycle time for biotech and pharmaceutical companies. ([Code](https://github.com/VV123/cMolGPT))
-
-
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/ccw.png" width="100px" style="margin-right:40px">
-We collaborated with Corpus Christi Water (CCW) on AI-powered wastewater system maintenance. We work on developing data-driven approaches to address real-world challenges.
-
-<br>
-
-<img align="left" src="{{ site.url }}{{ site.baseurl }}/images/sbir.png" width="120px" style="margin-right:20px">
-We work on technology transfer and develop data-driven approaches for life science challenges.
-
-<br>
-<br>
 
 
 ### News
