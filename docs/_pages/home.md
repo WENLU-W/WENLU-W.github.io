@@ -41,7 +41,7 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 
 
 ### News
-- Recruting two fully funded PhD student for Spring 2023. Feel free to send me your CV!
+- Recruting two fully funded PhD student for Spring 2024. Feel free to send me your CV!
 - Check out our <ins>[Large Language Model (LLM) survey](https://github.com/VV123/LLM-papers)</ins>.
 - [09/2024] Our project working on equitable healthcare is selected by NIH. Thanks to NIH!
 - [08/2024] Our project working on interdisciplinary research is funded by NSF. Thanks to NSF!
