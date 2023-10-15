@@ -7,6 +7,8 @@ permalink: /research/
 ---
 
 ### Research Project
+
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -14,6 +16,7 @@ permalink: /research/
     </li>
   {% endfor %}
 </ul>
+-->
 
 
 <!--
