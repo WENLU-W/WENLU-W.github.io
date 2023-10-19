@@ -26,7 +26,7 @@ permalink: /grants/
 	- Smart and Self-Sustaining Early Warning Systems for Coastal Flooding 
 	- Amount: $167.375K
 	- Role: TAMUCC PI (with UTSA Lead PI Dr. Chen Pan)
-- Amazon Web Service Research Credit for Research
+- Amazon Web Service Cloud Credit for Research
 	- Deep Learning-based Drug Discovery 
 	- Amount: In-kind contribution $11.261K 
 	- Role: PI
