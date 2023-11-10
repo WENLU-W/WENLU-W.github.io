@@ -43,11 +43,15 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ### Students
 
-- [Fahad Jawed]() (PhD, Spring 2023 - )
+- [Fahad Jawed]() (PhD, Fall 2023 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
-- [Dai Le]() (MS, Spring 2023 - )
-- Mavoori Sreenidhi (MS, Fall 2022 - )
-- Harshith Sai Chikoti (MS, Fall 2022 - )
+- [Dai Le]() (MS, Fall 2023 - )
+- Mavoori Sreenidhi (MS, Summer 2023 - )
+- Sriram Reddy Keshireddy (MS, Fall 2023 - )
+- Harshith Sai Chikoti (MS, Fall 2023 - ) 
+- Sai Koushik Katakam (MS, Fall 2023 - )
+- Aaron Fortner (MS, Spring 2024 - )
+
 
 ### Past students
 - Xuedi Yu -> Biogen Inc.
