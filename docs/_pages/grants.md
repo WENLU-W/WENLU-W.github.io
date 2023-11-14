@@ -19,7 +19,8 @@ permalink: /grants/
 	- Role: TAMUCC PI
 - National Institutes of Health
 	- AEQUIH: Advancing Equitable AI for Unveiling High-Risk Mental Health Challenges Among Hispanic Youth 
-	- Program: AIM-AHEAD PAIR
+	- Program: AIM-AHEAD PAIR 
+	- Award No.: 1OT2OD032581-01
 	- Amount: $100K
 	- Role: Co-PI 
 - Texas General Land Office
