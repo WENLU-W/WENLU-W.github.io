@@ -51,6 +51,7 @@ Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 - Harshith Sai Chikoti (MS, Fall 2023 - ) 
 - Sai Koushik Katakam (MS, Fall 2023 - )
 - Aaron Fortner (MS, Spring 2024 - )
+- Lizette Gonzales (Undergrad, Spring 2024 - )
 
 
 ### Past students
