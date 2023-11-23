@@ -10,10 +10,10 @@ permalink: /lab/
 <img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 70px; box-shadow: none">  Artificial Intelligence, Interdisciplinarity, and Innovation Lab
 
 ------------------------------------------
-<a href="https://wenlu-w.github.io/">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/AIserver.jpeg" style="width: 300px; box-shadow: none">
-</a>&nbsp;&nbsp; Sequence Modeling &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
+
+&nbsp;&nbsp; Sequence Modeling &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 <br>
+
 
 <div style="width: 100%;">
 <div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 

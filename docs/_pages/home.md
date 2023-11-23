@@ -16,9 +16,9 @@ College of Engineering and Computer Science<br>
 Texas A&M University - Corpus Christi<br>
 Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 30px; box-shadow: none">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 35px; box-shadow: none">
 </a>&nbsp;
-<a href="https://wenlu-w.github.io/ailab/">Lab</a>&nbsp;
+<a href="https://wenlu-w.github.io/lab/"><img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 35px; box-shadow: none"></a>&nbsp;
 </i>
 <br>
 </ul>
