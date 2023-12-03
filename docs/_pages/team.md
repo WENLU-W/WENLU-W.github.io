@@ -17,7 +17,7 @@ permalink: /lab/
 
 
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 150px; width: 300px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 700px;"> 
   <ins>[AI for Biomedical & Agriculture](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
@@ -27,7 +27,7 @@ permalink: /lab/
 </div>
 </div>
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/water.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 150px; width: 300px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/water.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 1000px;"> 
   Spatial-temporal Predictions
@@ -35,7 +35,7 @@ permalink: /lab/
 </div>
 </div>
 <div style="width: 100%;">
-<div style="float: left; margin-right: 20px; height: 150px; width: 250px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
+<div style="float: left; margin-right: 20px; height: 150px; width: 300px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/nlidb.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
 </div>
 <div style="height: 150px; width: 1000px;"> 
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
