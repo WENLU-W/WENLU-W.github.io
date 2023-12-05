@@ -7,7 +7,7 @@ permalink: /lab/
 ---
 
 ## AIII Lab
-<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 50px; box-shadow: none">  Artificial Intelligence, Interdisciplinarity, and Innovation Lab
+<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 50px; box-shadow: none">  Artificial Intelligence, Interdiscipline, and Innovation Lab
 
 ------------------------------------------
 
