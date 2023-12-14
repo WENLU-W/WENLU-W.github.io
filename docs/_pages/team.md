@@ -49,11 +49,13 @@ permalink: /lab/
 - [Dai Le]() (PhD, Spring 2024 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
 - Mavoori Sreenidhi (MS, Summer 2023 - )
-- Sriram Reddy Keshireddy (MS, Fall 2023 - )
 - Harshith Sai Chikoti (MS, Fall 2023 - ) 
 - Sai Koushik Katakam (MS, Fall 2023 - )
+- Laxmi Aadithyaa Vitta (MS, Spring 2024 - )
 - Sai Avinash Vagicherla (MS, Spring 2024 - )
+- Sriram Reddy Keshireddy (MS, Fall 2023 - )
 - Lizette Gonzales (Undergrad, Spring 2024 - )
+
 
 ### Past students
 - Xuedi Yu -> Biogen Inc.
