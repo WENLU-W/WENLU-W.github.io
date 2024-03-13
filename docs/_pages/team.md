@@ -6,15 +6,11 @@ sitemap: false
 permalink: /lab/
 ---
 
-## AIII Lab
-<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 50px; box-shadow: none">  Artificial Intelligence, Interdiscipline, and Innovation Lab
+<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 50px; box-shadow: none"> <span style="font-size:2.0em;"> AIII - Artificial Intelligence, Interdiscipline, and Innovation Lab</span>
 
 ------------------------------------------
 
-&nbsp;&nbsp; Sequence Modeling &nbsp;&nbsp;Deep learning &nbsp;&nbsp; Data science
 <br>
-<br>
-
 
 <div style="width: 100%;">
 <div style="float: left; margin-right: 20px; height: 150px; width: 320px; border: 2px solid gray; background-image: url({{ site.url }}{{ site.baseurl }}/images/advremoval.png);background-position: center center; background-repeat: no-repeat; background-size: 100% 100%;"> 
