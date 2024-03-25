@@ -43,7 +43,6 @@ permalink: /lab/
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
 - [Fahad Jawed]() (PhD, Fall 2023 - )
-- [Dai Le]() (PhD, Spring 2024 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
 - Harshith Sai Chikoti (MS, Fall 2023 - ) 
 - Sai Koushik Katakam (MS, Fall 2023 - )
