@@ -42,7 +42,6 @@ permalink: /lab/
 ### Students
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
-- [Fahad Jawed]() (PhD, Fall 2023 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
 - Harshith Sai Chikoti (MS, Fall 2023 - ) 
 - Sai Koushik Katakam (MS, Fall 2023 - )
@@ -55,9 +54,8 @@ permalink: /lab/
 
 
 ### Past students
-- Xuedi Yu -> Biogen Inc.
 - Basava Gajavalli -> Walmart Global Tech
-
+- Xuedi Yu -> Biogen Inc.
 
 ### Industrial Collaboration
 
