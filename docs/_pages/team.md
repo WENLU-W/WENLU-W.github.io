@@ -13,19 +13,23 @@ permalink: /lab/
 <br>
 
 <div style="width: 100%;">
-<div style="height: 100px; width: 700px;"> 
+<div style="height: 200px; width: 700px;"> 
   <ins>[AI for Biomedical & Agriculture](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
 - Equitable AI in Healthcare. 
 </div>
 </div>
+
+
 <div style="width: 100%;">
 <div style="height: 100px; width: 1000px;"> 
   Spatial-temporal Predictions
   - <ins>[AI-powered Diagnosis for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
 </div>
 </div>
+
+
 <div style="width: 100%;">
 <div style="height: 100px; width: 1000px;"> 
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
