@@ -21,13 +21,13 @@ permalink: /lab/
 </div>
 </div>
 <div style="width: 100%;">
-<div style="height: 50px; width: 1000px;"> 
+<div style="height: 100px; width: 1000px;"> 
   Spatial-temporal Predictions
   - <ins>[AI-powered Diagnosis for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
 </div>
 </div>
 <div style="width: 100%;">
-<div style="height: 50px; width: 1000px;"> 
+<div style="height: 100px; width: 1000px;"> 
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 </div>
 </div>
