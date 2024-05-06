@@ -29,7 +29,7 @@ permalink: /lab/
 
 
 <div style="width: 100%;">
-<div style="height: 100px; width: 1000px;"> 
+<div style="height: 50px; width: 1000px;"> 
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 </div>
 </div>
