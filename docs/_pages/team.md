@@ -13,7 +13,7 @@ permalink: /lab/
 <br>
 
 <div style="width: 100%;">
-<div style="height: 200px; width: 700px;"> 
+<div style="height: 150px; width: 700px;"> 
   <ins>[AI for Biomedical & Agriculture](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
 - Genomics phenotyping. 
