@@ -33,7 +33,12 @@ permalink: /lab/
   <ins>[Generative Pre-trained Transformer (GPT) & Large Languge Models (LLM)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
 </div>
 </div>
+
 ------------------------------------------
+
+### PI 
+
+- Wenlu Wang
 
 ### Students
 
