@@ -41,10 +41,11 @@ Wenlu Wang is an assistant professor in the Department of Computing Sciences at 
 
 
 ### News
-- Check out our <ins>[Large Language Model (LLM) survey](https://github.com/VV123/LLM-papers)</ins>.
+- Check out our <ins>[Large Language Model (LLM)](https://github.com/VV123/LLM-papers)</ins> survey.
 	- <ins>[LLM on Traffic](https://github.com/VV123/LLM-papers/blob/main/LLM4Traffic.md)</ins>
 - [05/2024] Our brain MRI project is accepted by MICCAI. Thanks to our collaborators!
 - [05/2024] Our phenotyping project is accepted by Evolutionary Applications (IF 4.1). Thanks to our collaborators!
+- [04/2024] Our LLM for code generation project is accepted by SACMAT 2024. Thanks to our collaborators!
 - [09/2023] Our project working on equitable healthcare is selected by NIH. Thanks to NIH!
 - [08/2023] Our project working on interdisciplinary research is funded by NSF. Thanks to NSF!
 - [05/2023] Check out our collaboration with Biogen - <ins>[CMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins> A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [(Code)](https://github.com/VV123/cMolGPT).
