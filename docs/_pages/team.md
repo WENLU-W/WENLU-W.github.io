@@ -44,11 +44,11 @@ permalink: /lab/
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
 - Chen Jiang (PhD, Auburn University, Fall 2016 - )
-- Harshith Sai Chikoti (MS, Fall 2023 - ) 
+- Abhijith Gentela (MS, Summer 2024 - )
+- Sohan Gantala (MS, Summer 2024 - )
 - Sai Koushik Katakam (MS, Fall 2023 - )
 - Laxmi Aadithyaa Vitta (MS, Spring 2024 - )
 - Sai Avinash Vagicherla (MS, Spring 2024 - )
-- Sriram Reddy Keshireddy (MS, Fall 2023 - )
 - Lizette Gonzales (Undergrad, Spring 2024 - )
 - Ethan Hughes (Undergrad, Spring 2024 - )
 - Brenden Oller (Undergrad, Spring 2024 - )
