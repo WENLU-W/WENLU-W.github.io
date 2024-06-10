@@ -43,7 +43,6 @@ permalink: /lab/
 ### Students
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
-- Chen Jiang (PhD, Auburn University, Fall 2016 - )
 - Abhijith Gentela (MS, Summer 2024 - )
 - Sohan Gantala (MS, Summer 2024 - )
 - Sai Koushik Katakam (MS, Fall 2023 - )
