@@ -43,6 +43,7 @@ permalink: /lab/
 ### Students
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
+- [Xingran Huang]() (PhD, Fall 2024 - )
 - Abhijith Gentela (MS, Summer 2024 - )
 - Sohan Gantala (MS, Summer 2024 - )
 - Sai Koushik Katakam (MS, Fall 2023 - )
