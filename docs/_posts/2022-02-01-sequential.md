@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "AI for Biomedical and Agriculture"
+title:  "AI for Science"
 date:   2021-09-01 13:27:04 -0400
 categories: Project
 ---
 
-We use sequence modeling for <br>
+We work on <br>
 
 - Generative molecular design.
 - Genomics phenotyping.
-- AI in healthcare.
+
 
 <style>
 	.dropdown-menu>.active {
