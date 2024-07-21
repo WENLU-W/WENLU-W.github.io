@@ -18,11 +18,12 @@ permalink: /service/
 - IEEE Vehicular Technology Magazine (VTM)                         
 - IEEE Transactions on Big Data (TBD)
 - Springer Distributed and Parallel Databases (DAPD)
-
+- ACM computing surveys (CSUR)
 
 #### PC Member
 
-- IEEE BigData 2022, 2023
+- IEEE BigData 2022, 2023, 2024
+- aiDM@SIGMOD 2024
 
 #### Tutorial
 
