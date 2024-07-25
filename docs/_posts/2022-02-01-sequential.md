@@ -8,7 +8,7 @@ categories: Project
 We work on <br>
 
 - Generative molecular design.
-- Genomics phenotyping.
+- Genomic selection.
 
 
 <style>
@@ -66,7 +66,7 @@ We work on <br>
         Generative AI molecular design
 </button>
 <button class="tablinks" onclick="show(event, 'biology')">
-        Genomic Phenotyping
+        Genomic selection
 </button>
 
 </div>
