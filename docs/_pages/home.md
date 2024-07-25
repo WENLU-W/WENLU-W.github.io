@@ -35,8 +35,8 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 1. How can a scientific problem be converted into a format that AI can understand?
 
     - Can LLM understand [<span style="color:blue">chemical language</span>](https://www.mdpi.com/1420-3049/28/11/4430)?
-    - How to use AI for more accurate [genetic phynotyping](https://wenlu-w.github.io/project/2021/09/01/sequential.html)?
-    - How to use AI for more accurate [diagnosis](), will [LLM help](https://arxiv.org/pdf/2407.12797)?
+    - How to use AI for more accurate [<span style="color:blue">gemonic selection</span>](https://wenlu-w.github.io/project/2021/09/01/sequential.html)?
+    - How to use AI for more accurate [<span style="color:blue">diagnosis</span>](), will [<span style="color:blue">LLM</span>](https://arxiv.org/pdf/2407.12797) help?
 
 
 
