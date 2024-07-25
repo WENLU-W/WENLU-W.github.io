@@ -14,7 +14,7 @@ permalink: /lab/
 <div style="height: 150px; width: 700px;"> 
   <ins>[AI for Science](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
 - Generative molecular design. 
-- Genomics phenotyping. 
+- Genomic selection. 
 - <ins>[AI-powered Diagnosis for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
 </div>
 </div>
