@@ -104,7 +104,7 @@ This project is a collaboration with Biogen Inc.
 <br>2. Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf](https://ieeexplore.ieee.org/abstract/document/10031177)
 <a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 500px; box-shadow: none"></a>
 <br>3. A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 
-<br><a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a>
+<br><a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 200px; box-shadow: none"></a>
 </div>
 
 
