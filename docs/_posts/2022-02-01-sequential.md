@@ -66,7 +66,7 @@ We work on <br>
         Generative AI molecular design
 </button>
 <button class="tablinks" onclick="show(event, 'biology')">
-        Genomic selection
+        Genomic Phenotyping
 </button>
 
 </div>
@@ -100,6 +100,7 @@ This project is a collaboration with Biogen Inc.
 
 
 <div class="tabcontent" id="biology" style="display:none;">
+Consequences of domestication in eastern oyster: Insights from whole genomic analyses [pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13710)
 <a href=""> <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" style="width: 500px; box-shadow: none"></a>
 <br>Adversarial Removal of Population Bias in Genomics Phenotype Prediction. [pdf](https://ieeexplore.ieee.org/abstract/document/10031177)
 <br><a href="https://github.com/hzz0024/EasyParallel"> <img src="{{ site.url }}{{ site.baseurl }}/images/easyparallel.png" style="width: 150px; box-shadow: none"></a><br>A cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of bioinformatic analyses. 

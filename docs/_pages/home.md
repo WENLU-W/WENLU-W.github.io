@@ -28,6 +28,18 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 ### Short Bio
 Wenlu Wang is an assistant professor in the Department of Computing Sciences at Texas A&M University Corpus Christi. She received her Ph.D. degree from the Department of Computer Science and Software Engineering at Auburn University in 2020. She received the B.E. degree in computer science at Beihang University, and the M.S. degree in computer science at New York University.
 
+### About me
+I am interested in transferring artificial intelligence (AI) to real-world applications, particularly in the realm of AI for Science. AI models possess immense learning power, but the challenge lies in effectively harnessing this power to solve practical problems. My research focuses on translating complex real-world challenges into formats that AI can understand and process. Specifically, I work on the following subjects:
+
+
+1. How can a scientific problem be converted into a format that AI can understand?
+
+    - Can LLM understand [chemical language](https://www.mdpi.com/1420-3049/28/11/4430)?
+    - How to use AI for more accurate [genetic phynotyping](https://wenlu-w.github.io/project/2021/09/01/sequential.html)?
+    - How to use AI for more accurate [diagnosis](), will [LLM help](https://arxiv.org/pdf/2407.12797)?
+
+
+
 ### Research Interests
 <b>Data Science and Interdisciplinary Research</b>.
 
