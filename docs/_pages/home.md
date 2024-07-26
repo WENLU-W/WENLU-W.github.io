@@ -34,11 +34,14 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 1. How can a scientific problem be converted into a format that AI can understand?
 
-    - Can LLM understand [<span style="color:blue">chemical language</span>](https://www.mdpi.com/1420-3049/28/11/4430)?
+    - Can LLMs understand [<span style="color:blue">chemical language</span>](https://www.mdpi.com/1420-3049/28/11/4430)?
     - How to use AI for more accurate [<span style="color:blue">gemonic selection</span>](https://wenlu-w.github.io/project/2021/09/01/sequential.html)?
-    - How to use AI for more accurate [<span style="color:blue">diagnosis</span>](), will [<span style="color:blue">LLM</span>](https://arxiv.org/pdf/2407.12797) help?
+    - How to use AI for more accurate [<span style="color:blue">diagnosis</span>](), will [<span style="color:blue">LLMs</span>](https://arxiv.org/pdf/2407.12797) help?
 
+2. How to enforce human compliance/knowledge to open-source LLMs?
 
+    - How to build a private and customized [<span style="color:blue">pipeline</span>](https://arxiv.org/pdf/2407.12797) with open-source LLMs?
+    - How to control the security compliance of LLM generated content (e.g., [<span style="color:blue">code</span>](https://dl.acm.org/doi/abs/10.1145/3649158.3657032))?
 
 ### Research Interests
 <b>Data Science and Interdisciplinary Research</b>.
@@ -53,8 +56,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 ### News
-- Check out our <ins>[Large Language Model (LLM)](https://github.com/VV123/LLM-papers)</ins> survey.
-	- <ins>[LLM on Traffic](https://github.com/VV123/LLM-papers/blob/main/LLM4Traffic.md)</ins>
+- [07/2024] Our Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines is <ins>[online](https://arxiv.org/abs/2407.12797)</ins>
 - [06/2024] Xingran Huang will join our lab as a PhD student. Welcome Xingran!
 - [05/2024] Our brain MRI project is accepted by MICCAI. Thanks to our collaborators!
 - [05/2024] Our phenotyping project is accepted by Evolutionary Applications (IF 4.1). Thanks to our collaborators!
@@ -62,17 +64,6 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 - [09/2023] Our project working on equitable healthcare is selected by NIH. Thanks to NIH!
 - [08/2023] Our project working on interdisciplinary research is funded by NSF. Thanks to NSF!
 - [05/2023] Check out our collaboration with Biogen - <ins>[CMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins> A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [(Code)](https://github.com/VV123/cMolGPT).
-- [04/2023] Our paper ["Multilingual Spatial Domain Natural Language Interface to Databases"](https://link.springer.com/article/10.1007/s10707-023-00496-3) [(shared link)](https://rdcu.be/da2Of) is published by Springer Nature Geoinformatica (collaboration with Meta and Instacart).  
-- [03/2023] Join IEEE BigData 2023 PC.
-- [12/2022] Our tutorial "Spatial Big Data Meets AI: Applications and Perspectives" is [online](). Thanks to our collaborator from the University of Tokyo!
-- [04/2022] Our paper "Projection Image Synthesis using Adversarial Learning Based Spatial Transformer Network for Sparse Angle Sampling CT" is accepted by EMBC 2022.
-- [03/2022] Join IEEE BigData 2022 PC.
-- [11/2021] One paper is accepted by DATE 2022.
-- [10/2021] One paper is accepted by IEEE BigData 2021 (accept rate 19.9%).
-- [09/2021] Our paper "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks" is accepted by IEEE MSN.
-- [08/2021] Our paper "Modeling Real Estate Dynamics using Temporal Encoding" is accepted by ACM SIGSPATIAL (accept rate 22.4%).
-- [06/2021] Our paper "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach" is published by Distributed and Parallel Databases.
-- [04/2021] Our paper "LShape Partitioning: Parallel Skyline Query Processing using MapReduce" is presented at ICDE TKDE Poster session.
 
 
 
