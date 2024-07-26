@@ -36,7 +36,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
     - Can LLMs understand [<span style="color:blue">chemical language</span>](https://www.mdpi.com/1420-3049/28/11/4430)?
     - How to use AI for more accurate [<span style="color:blue">gemonic selection</span>](https://wenlu-w.github.io/project/2021/09/01/sequential.html)?
-    - How to use AI for more accurate [<span style="color:blue">diagnosis</span>](), will [<span style="color:blue">LLMs</span>](https://arxiv.org/pdf/2407.12797) help?    <br>
+    - How to use AI for more accurate [<span style="color:blue">diagnosis</span>](), will [<span style="color:blue">LLMs</span>](https://arxiv.org/pdf/2407.12797) help?    <br />
 
 
 2. How to enforce human compliance/knowledge to open-source LLMs?
