@@ -18,10 +18,6 @@ Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en">
         <img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 35px; box-shadow: none">
 </a>&nbsp;
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.fr/citations?user=your_id"
 <a href="https://wenlu-w.github.io/lab/"><img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 35px; box-shadow: none"></a>&nbsp;
 </i>
 <br>
