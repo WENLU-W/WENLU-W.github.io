@@ -51,7 +51,7 @@ permalink: /lab/
 
 <left><figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gmj.jpeg" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gmj.jpeg" style="width: 80px; box-shadow: none">
 </figure></left>
 
 
