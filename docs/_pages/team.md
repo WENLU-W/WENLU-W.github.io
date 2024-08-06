@@ -35,26 +35,23 @@ permalink: /lab/
 
 - [Qiming Guo]() (PhD, Spring 2024 - )
 - [Xingran Huang]() (PhD, Fall 2024 - )
-- Abhijith Gentela (MS, Summer 2024 - )
 - Sohan Gantala (MS, Summer 2024 - )
+- Malaka Sudhakara Reddy (MS, Fall 2024 - )
+- Abhijith Gentela (MS, Summer 2024 - )
 - Sai Koushik Katakam (MS, Fall 2023 - )
-- Laxmi Aadithyaa Vitta (MS, Spring 2024 - )
-- Sai Avinash Vagicherla (MS, Spring 2024 - )
-- Lizette Gonzales (Undergrad, Spring 2024 - )
 - Ethan Hughes (Undergrad, Spring 2024 - )
 - Brenden Oller (Undergrad, Spring 2024 - )
 
-
-### Past students
+### Alumni
 - Basava Gajavalli -> Walmart Global Tech
 - Xuedi Yu -> Biogen Inc.
+- Lizette Gonzales
 
 ### Industrial Collaboration
 
 <left><figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/biogen.jpeg" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/instacart.png" style="width: 90px; box-shadow: none">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wework.png" style="width: 90px; box-shadow: none">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gmj.jpeg" style="width: 90px; box-shadow: none">
 </figure></left>
 
 
