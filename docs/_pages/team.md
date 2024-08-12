@@ -19,12 +19,6 @@ permalink: /lab/
 </div>
 </div>
 
-<div style="width: 100%;">
-<div style="height: 50px; width: 1000px;"> 
-  <ins>[Large Languge Models (LLMs)](https://wenlu-w.github.io/project/2022/01/01/llm.html)</ins>
-</div>
-</div>
-
 ------------------------------------------
 
 ### PI 
