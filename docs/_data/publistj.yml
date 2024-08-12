@@ -1,10 +1,19 @@
-- title: "Multiple ground/aerial parcel delivery problem: a Weighted Road Network Voronoi Diagram based approach"
-  image:
-  authors: P Harn, J Zhang, T Shen, W Wang, X Jiang, WS Ku, MT Sun, YY Chiang
-  description: 
+- title: "cMolGPT: A conditional generative pre-trained transformer for target-specific de novo molecular generation."
+  image: 
+  authors: Wang Y, Zhao H, Sciabola S, Wang W.
+  description: Collaboration with Biogen for AI in Drug Discovery (AIDD). 
   link:
-    url: 
-    display: Distributed and Parallel Databases 2021
+    url: https://www.mdpi.com/1420-3049/28/11/4430
+    display: Molecules 2023
+  highlight: 0
+
+- title: "Consequences of domestication in eastern oyster: Insights from whole genomic analyses."
+  image: 
+  authors: Zhao H, Guo X, Wang W, Wang Z, Rawson P, Wilbur A, Hare M.
+  description: Collaboration with Cornell University for genomic analyses using machine learning. 
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13710
+    display: Evolutionary Applications 2024
   highlight: 0
 
 - title: "LShape Partitioning: Parallel Skyline Query Processing using MapReduce"
