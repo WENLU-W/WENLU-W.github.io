@@ -6,10 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en), [Conference and Workshop](#conference-papers), [Journal Publications](#journal-papers)
+[Google Scholar](https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en)
 
-Conference: ICDE, EDBT, SIGSPATIAL, CIKM
-
+Conference: ICDE, EDBT, CIKM, MICCAI
 Jounrnal: TKDE, VLDBJ
 
 #### Conference Papers
