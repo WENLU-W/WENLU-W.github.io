@@ -9,16 +9,18 @@ permalink: /service/
 
 #### Journal Review  
 
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 
+- IEEE Transactions on Network Science and Engineering (TNSE)
+- IEEE Transactions on Big Data (TBD)
+- ACM computing surveys (CSUR)
 - The Royal Society of Chemistry Digital Discovery
 - The Royal Society of Chemistry Analytical Methods
 - Springer Complex & Intelligent Systems (CAIS)
 - Springer Knowledge and Information Systems (KAIS)
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) 
-- IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Vehicular Technology Magazine (VTM)                         
-- IEEE Transactions on Big Data (TBD)
 - Springer Distributed and Parallel Databases (DAPD)
-- ACM computing surveys (CSUR)
+
 
 #### PC Member
 
