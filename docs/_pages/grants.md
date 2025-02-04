@@ -14,16 +14,15 @@ permalink: /grants/
 - National Science Foundation
     - CREST Center
     - Role: Senior Personnel
-- National Science Foundation
-	- Program: Small Business Innovation Research (SBIR)
-	- Role: TAMUCC PI
 - Texas General Land Office
 	- Smart and Self-Sustaining Early Warning Systems for Coastal Flooding 
 	- Role: TAMUCC PI (with UTSA Lead PI Dr. Chen Pan)
 
-
 ### Past Grants
-
+- National Science Foundation
+    - A deep learning model for identification of charged post translational modifications in proteins analyzed by capillary electrophoresis with mass spectrometry
+	- Program: Small Business Innovation Research (SBIR)
+	- Role: TAMUCC PI
 - National Institutes of Health
 	- AEQUIH: Advancing Equitable AI for Unveiling High-Risk Mental Health Challenges Among Hispanic Youth 
 	- Program: AIM-AHEAD PAIR 
