@@ -59,7 +59,6 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 ### News
 - [09/2024] Qiming's GNN work is accepted by ACM SIGSPATIAL SRC. Congratulations Qiming!
 - [07/2024] Our Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines is <ins>[online](https://arxiv.org/abs/2407.12797)</ins>
-- [06/2024] Xingran Huang will join our lab as a PhD student. Welcome Xingran!
 - [05/2024] Our brain MRI project is accepted by MICCAI. Thanks to our collaborators!
 - [05/2024] Our phenotyping project is accepted by Evolutionary Applications (IF 4.1). Thanks to our collaborators!
 - [04/2024] Our LLM for code generation project is accepted by SACMAT 2024. Thanks to our collaborators!

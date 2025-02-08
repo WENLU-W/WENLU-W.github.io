@@ -31,8 +31,6 @@ permalink: /lab/
 - [Xingran Huang]() (PhD, Fall 2024 - )
 - Sohan Gantala (MS, Summer 2024 - )
 - Malaka Sudhakara Reddy (MS, Fall 2024 - )
-- Abhijith Gentela (MS, Summer 2024 - )
-- Sai Koushik Katakam (MS, Fall 2023 - )
 - Ethan Hughes (Undergrad, Spring 2024 - )
 - Brenden Oller (Undergrad, Spring 2024 - )
 
@@ -40,6 +38,8 @@ permalink: /lab/
 - Basava Gajavalli -> Walmart Global Tech
 - Xuedi Yu -> Biogen Inc.
 - Lizette Gonzales
+- Sai Koushik Katakam
+- Abhijith Gentela
 
 ### Industrial Collaboration
 
