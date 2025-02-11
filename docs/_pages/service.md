@@ -24,8 +24,9 @@ permalink: /service/
 
 #### PC Member
 
-- IEEE BigData 2022, 2023, 2024
+- NAACL 2025
 - aiDM@SIGMOD 2024
+- IEEE BigData 2022, 2023, 2024
 
 #### Tutorial
 
