@@ -8,8 +8,9 @@ permalink: /lab/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 60px; box-shadow: none"> <span style="font-size:1.5em;"> <br> AIII - Artificial Intelligence, Interdiscipline, and Innovation Lab </span>
 
+ <ins>[Lab Website](https://vv123.github.io/Website/)<ins>
 ------------------------------------------
-
+<!--
 <div style="width: 100%;">
 <div style="height: 150px; width: 700px;"> 
   <ins>[AI for Science](https://wenlu-w.github.io/project/2021/09/01/sequential.html)<ins>
@@ -18,10 +19,8 @@ permalink: /lab/
 - <ins>[AI-powered Diagnosis for Intelligent Wastewater Infrastructure Management](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)</ins>
 </div>
 </div>
-
+!-->
 ------------------------------------------
- <ins>[Lab Website](https://vv123.github.io/Website/)<ins>
-
 ### PI 
 
 - Wenlu Wang
