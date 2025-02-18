@@ -6,6 +6,9 @@ sitemap: false
 permalink: /recruit/
 ---
 
+I am not recruiting at this time.
+
+<!--
 ### Recruiting
 
 Two fully-funded (monthly salary + tuition covered) RA openings are available for highly self-motivated Ph.D. students starting Spring 2024.
@@ -31,5 +34,5 @@ Admission: <a href="https://gradschool.tamucc.edu/degrees/science/geo_comp_sci.h
 
  
 Due to the high volume of applications, unfortunately, I’m unable to notify every applicant, except only those who appear to be a good match.
-
+!-->
 
