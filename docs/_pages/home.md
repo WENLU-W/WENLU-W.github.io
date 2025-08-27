@@ -57,11 +57,12 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 ### News
+- [08/2025] Our DB4AI - databases for AI project is accepted by SIGMOD 2026. Thanks to our collaborators!
+- [07/2025] Our AI for drug discovery project will be funded by our university's research enhancement grant. 
 - [09/2024] Qiming's GNN work is accepted by ACM SIGSPATIAL SRC. Congratulations Qiming!
 - [07/2024] Our Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines is <ins>[online](https://arxiv.org/abs/2407.12797)</ins>
 - [05/2024] Our brain MRI project is accepted by MICCAI. Thanks to our collaborators!
 - [05/2024] Our phenotyping project is accepted by Evolutionary Applications (IF 4.1). Thanks to our collaborators!
-- [04/2024] Our LLM for code generation project is accepted by SACMAT 2024. Thanks to our collaborators!
 - [09/2023] Our project working on equitable healthcare is selected by NIH. Thanks to NIH!
 - [08/2023] Our project working on interdisciplinary research is funded by NSF. Thanks to NSF!
 - [05/2023] Check out our collaboration with Biogen - <ins>[CMolGPT](https://www.mdpi.com/1420-3049/28/11/4430)</ins> A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [(Code)](https://github.com/VV123/cMolGPT).
