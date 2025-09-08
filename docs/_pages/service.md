@@ -24,6 +24,8 @@ permalink: /service/
 
 #### PC Member
 
+- Innovative Applications of Artificial Intelligence Conference (IAAI) 2026
+- ICDM 2025
 - NAACL 2025
 - aiDM@SIGMOD 2024
 - IEEE BigData 2022-2025
