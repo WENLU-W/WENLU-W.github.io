@@ -6,7 +6,7 @@ sitemap: false
 permalink: /lab/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 60px; box-shadow: none"> <span style="font-size:1.5em;"> <br> AIII - Artificial Intelligence, Interdiscipline, and Innovation Lab </span>
+<img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 60px; box-shadow: none"> <span style="font-size:1.5em;"> <br> AIII - Artificial Intelligence and Interdisciplinary Innovation Lab </span>
 
  <ins>[Lab Website](https://vv123.github.io/Website/)<ins>
 ------------------------------------------
