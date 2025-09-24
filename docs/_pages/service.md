@@ -24,6 +24,7 @@ permalink: /service/
 
 #### PC Member
 
+- PAKDD 2026
 - Innovative Applications of Artificial Intelligence Conference (IAAI) 2026
 - ICDM 2025
 - NAACL 2025
