@@ -8,7 +8,7 @@ permalink: /lab/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 60px; box-shadow: none"> <span style="font-size:1.5em;"> <br> AIII - Artificial Intelligence and Interdisciplinary Innovation Lab </span>
 
- <ins>[Lab Website](https://vv123.github.io/Website/)<ins>
+ <ins>[Lab Website](https://aiiilab.github.io/Website/)<ins>
 ------------------------------------------
 <!--
 <div style="width: 100%;">
