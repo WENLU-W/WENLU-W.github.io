@@ -6,10 +6,7 @@ categories: Project
 ---
 
 ## Adversarial Removal of Population Bias in Genomics Phenotype Prediction
-
-**Removing population stratification bias in genotype–phenotype prediction using adversarial training.**
-
-Population structure is a major confounding factor in genomic prediction.  
+ 
 We propose a general-purpose adversarial framework that learns phenotype-relevant features while explicitly removing population-related information from the latent representation.
 
 ---
@@ -18,21 +15,17 @@ We propose a general-purpose adversarial framework that learns phenotype-relevan
 
 - Introduces an **adversarial debiasing framework** for genomic phenotype prediction  
 - Ensures latent genomic representation is **population-agnostic**  
-- Orthogonal design — compatible with MLP, CNN, or other deep models  
-- Demonstrated on real soybean SNP data (40 populations)  
-- Improves prediction accuracy while minimizing stratification bias  
 
 ---
 
 📄 **Paper**  
 Honggang Zhao, Wenlu Wang  
-*2022 IEEE International Conference on Data Mining Workshops (ICDMW)*  
-DOI: 10.1109/ICDMW58026.2022.00052  
+*2022 IEEE International Conference on Data Mining Workshops (ICDMW)*  DOI: 10.1109/ICDMW58026.2022.00052  
 👉 [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10031177)
 
 ---
 
-## 🧠 Method Overview
+## 💻 Method
 
 The framework consists of:
 
@@ -51,25 +44,12 @@ This ensures the learned representation contains phenotype information but not p
 
 <center>
 <figure>
-<img src="/assets/images/advremoval.png" width="600">
+<img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" width="600">
 <figcaption>Adversarial training framework for removing population bias (Figure 1).</figcaption>
 </figure>
 </center>
 
 ---
-
-## 📊 Experimental Results
-
-Dataset:
-- Soybean Nested Association Mapping (NAM) panel  
-- 40 populations  
-- Yield phenotype prediction  
-- SNP genotypes (0/1/2 encoding)
-
-Evaluation Metrics:
-- MAE
-- MSE
-- Pearson Correlation Coefficient (PCC)
 
 ### Performance Comparison
 
@@ -88,15 +68,6 @@ Our adversarial framework improves:
 
 ---
 
-<center>
-<figure>
-<img src="/assets/images/adversarial_training_curve.png" width="600">
-<figcaption>Adversarial accuracy converges to chance level (2.5%), indicating successful removal of population signal.</figcaption>
-</figure>
-</center>
-
----
-
 ## 🌍 Why This Matters
 
 Population stratification inflates associations and reduces generalization in:
@@ -112,19 +83,3 @@ This work provides a **model-agnostic, scalable debiasing framework** applicable
 - Binary traits  
 - Human, plant, and animal genomics  
 
----
-
-## 🏛 Authors
-
-**Honggang Zhao**  
-Cornell University  
-
-**Wenlu Wang**  
-Texas A&M University–Corpus Christi  
-
----
-
-<div class="project-footer">
-<img src="/assets/images/tamucc_logo.png" width="120">
-<p><strong>AI for Biology & Genomics</strong> — Developing robust and bias-aware machine learning models for biological data.</p>
-</div>
