@@ -44,7 +44,6 @@ This ensures the learned representation contains phenotype information but not p
 <center>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/advremoval.png" width="600">
-<figcaption>Adversarial training framework for removing population bias (Figure 1).</figcaption>
 </figure>
 </center>
 
@@ -67,7 +66,7 @@ Our adversarial framework improves:
 
 ---
 
-## 🌍 Why This Matters
+## 🌍 Generalization
 
 Population stratification inflates associations and reduces generalization in:
 
@@ -76,9 +75,5 @@ Population stratification inflates associations and reduces generalization in:
 - Livestock genomic selection  
 - Epidemiological modeling  
 
-This work provides a **model-agnostic, scalable debiasing framework** applicable to:
 
-- Continuous traits  
-- Binary traits  
-- Human, plant, and animal genomics  
 
