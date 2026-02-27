@@ -19,8 +19,7 @@ We propose a general-purpose adversarial framework that learns phenotype-relevan
 ---
 
 📄 **Paper**  
-Honggang Zhao, Wenlu Wang  
-*2022 IEEE International Conference on Data Mining Workshops (ICDMW)*  DOI: 10.1109/ICDMW58026.2022.00052  
+Adversarial Removal of Population Bias in Genomics Phenotype Prediction *2022 IEEE International Conference on Data Mining Workshops (ICDMW)*  
 👉 [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10031177)
 
 ---
