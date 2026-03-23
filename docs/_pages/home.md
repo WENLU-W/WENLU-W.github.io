@@ -33,20 +33,20 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 1. How to convert a scientific problem into a format that AI can understand?
-
     - Can LLMs understand chemical language? [<span style="color:blue">cMolGPT</span>](https://www.mdpi.com/1420-3049/28/11/4430)
     - How can AI be leveraged to address physics-based real-world problems, for example in hydraulics? [<span style="color:blue">AquaSentinel</span>](https://ojs.aaai.org/index.php/AAAI/article/view/41464) 
     - How to use AI for more accurate [<span style="color:blue">gemonic selection</span>](https://ieeexplore.ieee.org/abstract/document/10031177/)?
     <br>
-    
-2. How to empower open-source LLMs?
 
+  
+2. How to empower open-source LLMs?
     - How can we enable private, efficient LLM deployment on low-resource hardware? [<span style="color:blue">TranSQL+</span>](https://dl.acm.org/doi/abs/10.1145/3769836) 
+    <br>
 
 3. How to "deploy" AI to address real-world challenges?   
-
     - Stereo-based aquatic tracking [<span style="color:blue">AquaSense</span>](https://wenlu-w.github.io/project/2026/01/30/fish.html)
     - AI-Powered Urban Wastewater Management Systems in [<span style="color:blue">Corpus Christi </span>](https://wenlu-w.github.io/project/2023/10/01/ai4hydro.html)
+    <br>
 
 ### Research Interests
 <b>Data Science and Interdisciplinary Research</b>.
