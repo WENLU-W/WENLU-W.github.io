@@ -34,7 +34,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 1. How to convert a scientific problem into a format that AI can understand?
 
-    - Can LLMs understand chemical language? [<span style="color:blue">cMolGPT</span>](https://www.mdpi.com/1420-3049/28/11/4430)?
+    - Can LLMs understand chemical language? [<span style="color:blue">cMolGPT</span>](https://www.mdpi.com/1420-3049/28/11/4430)
     - How can AI be leveraged to address physics-based real-world problems, for example in hydraulics? [<span style="color:blue">AquaSentinel</span>](https://ojs.aaai.org/index.php/AAAI/article/view/41464) 
     - How to use AI for more accurate [<span style="color:blue">gemonic selection</span>](https://ieeexplore.ieee.org/abstract/document/10031177/)?
     <br>
