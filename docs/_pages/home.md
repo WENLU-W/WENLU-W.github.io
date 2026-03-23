@@ -61,6 +61,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 ### News
+- [01/2026] Our prototype for AI-enabled urban wastewater systems in Corpus Christi has been accepted to AAAI 2026. Thanks to our collaborators!
 - [08/2025] Our DB4AI - databases for AI project is accepted by SIGMOD 2026. Thanks to our collaborators!
 - [07/2025] Our AI for drug discovery project will be funded by our university's research enhancement grant. 
 - [09/2024] Qiming's GNN work is accepted by ACM SIGSPATIAL SRC. Congratulations Qiming!
