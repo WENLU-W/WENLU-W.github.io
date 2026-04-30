@@ -7,6 +7,17 @@ permalink: /service/
 ---
 ### Professional Activities
 
+#### PC Member
+
+- SDM 2026
+- PAKDD 2026
+- ACM SIGSPATIAL 2026
+- Innovative Applications of Artificial Intelligence Conference (IAAI) 2026
+- ICDM 2025, 2026
+- NAACL 2025
+- IEEE BigData 2022-2026
+- aiDM@SIGMOD 2024
+
 #### Journal Review  
 
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -20,18 +31,6 @@ permalink: /service/
 - Springer Knowledge and Information Systems (KAIS)
 - IEEE Vehicular Technology Magazine (VTM)                         
 - Springer Distributed and Parallel Databases (DAPD)
-
-
-#### PC Member
-
-- SDM 2026
-- PAKDD 2026
-- ACM SIGSPATIAL 2026
-- Innovative Applications of Artificial Intelligence Conference (IAAI) 2026
-- ICDM 2025, 2026
-- NAACL 2025
-- IEEE BigData 2022-2026
-- aiDM@SIGMOD 2024
 
 #### Tutorial
 
