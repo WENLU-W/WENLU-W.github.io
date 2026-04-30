@@ -24,12 +24,14 @@ permalink: /service/
 
 #### PC Member
 
+- SDM 2026
 - PAKDD 2026
+- ACM SIGSPATIAL 2026
 - Innovative Applications of Artificial Intelligence Conference (IAAI) 2026
-- ICDM 2025
+- ICDM 2025, 2026
 - NAACL 2025
+- IEEE BigData 2022-2026
 - aiDM@SIGMOD 2024
-- IEEE BigData 2022-2025
 
 #### Tutorial
 
