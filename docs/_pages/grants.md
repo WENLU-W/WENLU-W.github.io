@@ -11,12 +11,12 @@ permalink: /grants/
 - National Science Foundation
 	- AI-powered Diagnosis Augmented by Self-sustaining Sensing System for Intelligent Wastewater Infrastructure Management 
 	- Role: PI 
+- TAMUS Research Excellence Fund
+	- AI-Enabled Integration of Dynamic Stability into Power System Optimization
+	- Role: Co-PI (with PVAMU Lead PI Dr. Lin Gong)
 - National Science Foundation
     - CREST Center
-    - Role: Senior Personnel
-- Texas General Land Office
-	- Smart and Self-Sustaining Early Warning Systems for Coastal Flooding 
-	- Role: TAMUCC PI (with UTSA Lead PI Dr. Chen Pan)
+    - Role: Senior Personnel 
 
 ### Past Grants
 - National Science Foundation
@@ -27,6 +27,9 @@ permalink: /grants/
 	- AEQUIH: Advancing Equitable AI for Unveiling High-Risk Mental Health Challenges Among Hispanic Youth 
 	- Program: AIM-AHEAD PAIR 
 	- Role: Co-PI 
+- Texas General Land Office
+	- Smart and Self-Sustaining Early Warning Systems for Coastal Flooding 
+	- Role: TAMUCC PI (with UTSA Lead PI Dr. Chen Pan)
 - Amazon Web Service Cloud Credit for Research
 	- Deep Learning-based Drug Discovery 
 	- Amount: In-kind contribution $11.261K 
