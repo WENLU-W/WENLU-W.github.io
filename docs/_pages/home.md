@@ -14,7 +14,7 @@ permalink: /
 Department of Computer Science<br>
 College of Engineering and Computer Science<br>
 Texas A&M University - Corpus Christi<br>
-Email: wenlu.wang.1@gmail.com  wenlu.wang@tamucc.edu<br>
+Email: wenlu.wang.1@gmail.com<br>
 <a href="https://aiiilab.github.io/Website/"><img src="{{ site.url }}{{ site.baseurl }}/images/aiii.png" style="width: 38px; box-shadow: none"></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=YPVtn-UAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/gscholar.png" style="width: 40px; box-shadow: none"></a>&nbsp;
 <a href="https://github.com/wenlu-lab"><img src="{{ site.url }}{{ site.baseurl }}/images/github.png" style="width: 33px; box-shadow: none; margin-left: 3px;"></a>&nbsp;
