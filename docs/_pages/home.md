@@ -10,7 +10,7 @@ permalink: /
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
-<i>Assistant Professor<br>
+<i>Associate Professor<br>
 Department of Computer Science<br>
 College of Engineering and Computer Science<br>
 Texas A&M University - Corpus Christi<br>
@@ -26,10 +26,10 @@ Email: wenlu.wang.1@gmail.com<br>
 
 
 ### Short Bio
-Wenlu Wang is an assistant professor in the Department of Computing Sciences at Texas A&M University Corpus Christi. She received her Ph.D. degree from the Department of Computer Science and Software Engineering at Auburn University in 2020.
+Wenlu Wang is an associate professor in the Department of Computing Sciences at Texas A&M University Corpus Christi. She received her Ph.D. degree from the Department of Computer Science and Software Engineering at Auburn University in 2020.
 
 ### About me
-I am interested in transferring artificial intelligence (AI) to real-world applications, particularly in the realm of AI for Science. AI models possess immense learning power, but the challenge lies in effectively harnessing this power to solve practical problems. My research focuses on translating complex real-world challenges into formats that AI can understand and process. Specifically, I work on the following subjects:
+I am interested in transferring artificial intelligence (AI) to real-world applications, particularly in the realm of AI for Science. Specifically, I work on the following subjects:
 
 
 1. How to convert a scientific problem into a format that AI can understand?
@@ -49,7 +49,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
     <br>
 
 ### Research Interests
-<b>Data Science and Interdisciplinary Research</b>.
+<b>AI4Science</b>.
 
 <left><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/nsf.jpg" style="width: 100px; box-shadow: none">
@@ -61,6 +61,8 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 ### News
+- [07/2026] Our spatial entropy-based graph unlearning paper has been accepted by SDM 2026! Congratulations to Qiming, and many thanks to our collaborators!
+- [05/2026] Our AI for power grid project has been selected for funding by TAMU Research Excellence Fund. Many thanks to our collaborators!
 - [01/2026] Our prototype for AI-enabled urban wastewater systems in Corpus Christi has been accepted to AAAI 2026. Thanks to our collaborators!
 - [08/2025] Our DB4AI - databases for AI project is accepted by SIGMOD 2026. Thanks to our collaborators!
 - [07/2025] Our AI for drug discovery project will be funded by our university's research enhancement grant. 
