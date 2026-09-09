@@ -9,6 +9,7 @@ permalink: /service/
 
 #### PC Member
 
+- ACM International Conference on Web Search and Data Mining (WSDM) 2027
 - SDM 2026
 - PAKDD 2026
 - ACM SIGSPATIAL 2026
