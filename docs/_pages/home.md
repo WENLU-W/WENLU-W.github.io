@@ -60,7 +60,7 @@ I am interested in transferring artificial intelligence (AI) to real-world appli
 
 
 
-### NewF
+### News
 - [10/2026] Congratulations to our PhD student Qiming for receiving Provost and Islander Family Student Fund Award and iSEE Student Funding Award! 
 - [09/2026] Our paper "RADAgent: Automating RADseq Pipelines with Private Open-Source LLMs" is accepted by BIBM 2026. Huge thanks to our collaborators!
 - [07/2026] Our spatial entropy-based graph unlearning paper has been accepted by SDM 2026! Congratulations to Qiming, and many thanks to our collaborators!
